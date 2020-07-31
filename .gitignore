@@ -1,1 +1,4 @@
+# Untrack MacOS file and Jupyter checkpoint files.
+
 .DS_Store
+.ipynb_checkpoints
