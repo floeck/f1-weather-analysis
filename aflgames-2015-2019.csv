@@ -1,0 +1,1035 @@
+id,Date,Venue,Round,Round.Number,Home.Team,Home.Goals,Home.Behinds,Home.Points,Away.Team,Away.Goals,Away.Behinds,Away.Points,Margin
+1,"2015-04-02 19:20:00",M.C.G.,R1,1,Carlton,11,12,78,Richmond,15,15,105,-27
+2,"2015-04-04 13:40:00",M.C.G.,R1,1,Melbourne,17,13,115,"Gold Coast",13,11,89,26
+3,"2015-04-04 16:35:00","Stadium Australia",R1,1,Sydney,10,12,72,Essendon,9,6,60,12
+4,"2015-04-04 18:20:00",Gabba,R1,1,"Brisbane Lions",11,8,74,Collingwood,12,14,86,-12
+5,"2015-04-04 19:20:00",Docklands,R1,1,Footscray,14,13,97,"West Coast",14,3,87,10
+6,"2015-04-05 13:10:00",Docklands,R1,1,"St Kilda",11,12,78,GWS,12,15,87,-9
+7,"2015-04-05 14:50:00","Adelaide Oval",R1,1,Adelaide,21,14,140,"North Melbourne",9,9,63,77
+8,"2015-04-05 16:40:00",Subiaco,R1,1,Fremantle,11,9,75,"Port Adelaide",10,8,68,7
+9,"2015-04-06 15:20:00",M.C.G.,R1,1,Hawthorn,17,21,123,Geelong,8,13,61,62
+10,"2015-04-10 18:10:00",Subiaco,R2,2,"West Coast",20,11,131,Carlton,9,8,62,69
+11,"2015-04-11 13:45:00",M.C.G.,R2,2,Richmond,9,12,66,Footscray,12,13,85,-19
+12,"2015-04-11 14:10:00","Manuka Oval",R2,2,GWS,15,11,101,Melbourne,8,8,56,45
+13,"2015-04-11 16:35:00",Docklands,R2,2,Collingwood,9,9,63,Adelaide,12,18,90,-27
+14,"2015-04-11 19:10:00",Carrara,R2,2,"Gold Coast",10,16,76,"St Kilda",16,8,104,-28
+15,"2015-04-11 19:20:00","Adelaide Oval",R2,2,"Port Adelaide",6,8,44,Sydney,14,8,92,-48
+16,"2015-04-12 13:10:00","Kardinia Park",R2,2,Geelong,9,6,60,Fremantle,15,14,104,-44
+17,"2015-04-12 15:20:00",M.C.G.,R2,2,Essendon,12,6,78,Hawthorn,11,10,76,2
+18,"2015-04-12 16:40:00",Docklands,R2,2,"North Melbourne",20,13,133,"Brisbane Lions",7,9,51,82
+19,"2015-04-17 19:50:00",M.C.G.,R3,3,Collingwood,21,14,140,"St Kilda",10,6,66,74
+20,"2015-04-18 13:40:00",M.C.G.,R3,3,Carlton,11,18,84,Essendon,16,9,105,-21
+21,"2015-04-18 13:45:00","Adelaide Oval",R3,3,Adelaide,12,8,80,Melbourne,7,13,55,25
+22,"2015-04-18 16:35:00",S.C.G.,R3,3,Sydney,16,15,111,GWS,12,18,90,21
+23,"2015-04-18 19:20:00",Docklands,R3,3,"North Melbourne",16,9,105,"Port Adelaide",17,11,113,-8
+24,"2015-04-18 19:20:00",Gabba,R3,3,"Brisbane Lions",8,10,58,Richmond,21,11,137,-79
+25,"2015-04-19 13:10:00","York Park",R3,3,Hawthorn,19,13,127,Footscray,8,9,57,70
+26,"2015-04-19 14:40:00","Kardinia Park",R3,3,Geelong,16,9,105,"Gold Coast",13,18,96,9
+27,"2015-04-19 15:20:00",Subiaco,R3,3,"West Coast",12,9,81,Fremantle,17,9,111,-30
+28,"2015-04-24 19:50:00",M.C.G.,R4,4,Richmond,6,15,51,Melbourne,12,11,83,-32
+29,"2015-04-25 13:10:00",Wellington,R4,4,"St Kilda",12,9,81,Carlton,18,13,121,-40
+30,"2015-04-25 14:40:00",M.C.G.,R4,4,Essendon,6,13,49,Collingwood,9,15,69,-20
+31,"2015-04-25 17:40:00","Manuka Oval",R4,4,GWS,16,23,119,"Gold Coast",7,11,53,66
+32,"2015-04-25 18:45:00","Adelaide Oval",R4,4,"Port Adelaide",15,9,99,Hawthorn,13,13,91,8
+33,"2015-04-25 19:10:00",Subiaco,R4,4,Fremantle,11,8,74,Sydney,8,12,60,14
+34,"2015-04-26 13:10:00",Gabba,R4,4,"Brisbane Lions",9,11,65,"West Coast",17,16,118,-53
+35,"2015-04-26 15:20:00","Kardinia Park",R4,4,Geelong,9,13,67,"North Melbourne",12,11,83,-16
+36,"2015-04-26 16:40:00",Docklands,R4,4,Footscray,18,17,125,Adelaide,10,8,68,57
+37,"2015-05-01 19:50:00",M.C.G.,R5,5,Carlton,6,9,45,Collingwood,18,12,120,-75
+38,"2015-05-02 13:45:00",M.C.G.,R5,5,Richmond,11,10,76,Geelong,12,13,85,-9
+39,"2015-05-02 14:10:00",S.C.G.,R5,5,Sydney,10,13,73,Footscray,11,11,77,-4
+40,"2015-05-02 16:35:00",Carrara,R5,5,"Gold Coast",18,10,118,"Brisbane Lions",7,12,54,64
+41,"2015-05-02 17:40:00",Docklands,R5,5,"North Melbourne",10,10,70,Hawthorn,19,16,130,-60
+42,"2015-05-02 19:20:00",Subiaco,R5,5,"West Coast",18,12,120,GWS,4,9,33,87
+43,"2015-05-03 13:10:00",M.C.G.,R5,5,Melbourne,6,14,50,Fremantle,18,10,118,-68
+44,"2015-05-03 15:20:00",Docklands,R5,5,"St Kilda",11,14,80,Essendon,11,16,82,-2
+45,"2015-05-03 16:10:00","Adelaide Oval",R5,5,Adelaide,13,13,91,"Port Adelaide",18,7,115,-24
+46,"2015-05-08 19:50:00",M.C.G.,R6,6,Collingwood,8,11,59,Geelong,15,10,100,-41
+47,"2015-05-09 13:45:00","Bellerive Oval",R6,6,"North Melbourne",16,13,109,Richmond,10,14,74,35
+48,"2015-05-09 14:10:00",Docklands,R6,6,Footscray,13,9,87,"St Kilda",14,10,94,-7
+49,"2015-05-09 16:35:00","Sydney Showground",R6,6,GWS,16,12,108,Hawthorn,14,14,98,10
+50,"2015-05-09 17:10:00",Carrara,R6,6,"Gold Coast",11,12,78,Adelaide,18,11,119,-41
+51,"2015-05-09 18:10:00",M.C.G.,R6,6,Melbourne,7,8,50,Sydney,12,16,88,-38
+52,"2015-05-09 19:20:00",Subiaco,R6,6,Fremantle,12,8,80,Essendon,7,10,52,28
+53,"2015-05-10 15:20:00",Docklands,R6,6,Carlton,11,9,75,"Brisbane Lions",12,12,84,-9
+54,"2015-05-10 16:10:00","Adelaide Oval",R6,6,"Port Adelaide",10,8,68,"West Coast",11,12,78,-10
+55,"2015-05-15 19:50:00",Docklands,R7,7,Essendon,12,10,82,"North Melbourne",13,15,93,-11
+56,"2015-05-16 13:15:00","Adelaide Oval",R7,7,Adelaide,18,11,119,"St Kilda",10,13,73,46
+57,"2015-05-16 14:10:00",M.C.G.,R7,7,Hawthorn,24,11,155,Melbourne,7,8,50,105
+58,"2015-05-16 16:35:00",Docklands,R7,7,Carlton,9,3,57,GWS,19,21,135,-78
+59,"2015-05-16 17:40:00","Stadium Australia",R7,7,Sydney,18,12,120,Geelong,11,11,77,43
+60,"2015-05-16 19:20:00",Subiaco,R7,7,"West Coast",21,9,135,"Gold Coast",6,7,43,92
+61,"2015-05-17 13:10:00",Docklands,R7,7,Footscray,14,4,88,Fremantle,15,11,101,-13
+62,"2015-05-17 15:20:00",M.C.G.,R7,7,Richmond,16,9,105,Collingwood,15,10,100,5
+63,"2015-05-17 16:40:00",Gabba,R7,7,"Brisbane Lions",15,12,102,"Port Adelaide",8,17,65,37
+64,"2015-05-22 19:50:00",Docklands,R8,8,Geelong,22,8,140,Carlton,9,9,63,77
+65,"2015-05-23 13:45:00",Docklands,R8,8,"St Kilda",12,6,78,"West Coast",20,11,131,-53
+66,"2015-05-23 14:10:00","Sydney Showground",R8,8,GWS,16,12,108,Adelaide,12,12,84,24
+67,"2015-05-23 16:35:00",Carrara,R8,8,"Gold Coast",9,9,63,Collingwood,20,12,132,-69
+68,"2015-05-23 17:40:00",M.C.G.,R8,8,Hawthorn,9,15,69,Sydney,11,7,73,-4
+69,"2015-05-23 19:20:00",Subiaco,R8,8,Fremantle,17,13,115,"North Melbourne",5,12,42,73
+70,"2015-05-24 13:10:00",Docklands,R8,8,Essendon,21,10,136,"Brisbane Lions",12,6,78,58
+71,"2015-05-24 15:20:00",M.C.G.,R8,8,Melbourne,15,13,103,Footscray,9,10,64,39
+72,"2015-05-24 16:10:00","Adelaide Oval",R8,8,"Port Adelaide",5,13,43,Richmond,11,10,76,-33
+73,"2015-05-29 19:50:00",S.C.G.,R9,9,Sydney,19,8,122,Carlton,9,8,62,60
+74,"2015-05-30 13:40:00","York Park",R9,9,Hawthorn,14,9,93,"Gold Coast",6,4,40,53
+75,"2015-05-30 13:45:00","Traeger Park",R9,9,Melbourne,8,6,54,"Port Adelaide",18,7,115,-61
+76,"2015-05-30 16:35:00",Docklands,R9,9,Footscray,16,17,113,GWS,11,2,68,45
+77,"2015-05-30 19:10:00",M.C.G.,R9,9,Richmond,10,12,72,Essendon,8,11,59,13
+78,"2015-05-30 19:20:00","Adelaide Oval",R9,9,Adelaide,7,15,57,Fremantle,10,8,68,-11
+79,"2015-05-31 13:10:00",Gabba,R9,9,"Brisbane Lions",13,8,86,"St Kilda",16,12,108,-22
+80,"2015-05-31 14:40:00",M.C.G.,R9,9,Collingwood,17,10,112,"North Melbourne",14,11,95,17
+81,"2015-05-31 15:20:00",Subiaco,R9,9,"West Coast",16,24,120,Geelong,10,4,64,56
+82,"2015-06-05 18:10:00",Subiaco,R10,10,Fremantle,10,10,70,Richmond,15,7,97,-27
+83,"2015-06-06 13:40:00",M.C.G.,R10,10,Carlton,14,6,90,Adelaide,14,15,99,-9
+84,"2015-06-06 16:35:00",Carrara,R10,10,"Gold Coast",5,11,41,Sydney,13,15,93,-52
+85,"2015-06-06 19:10:00",Docklands,R10,10,Essendon,7,11,53,Geelong,19,8,122,-69
+86,"2015-06-06 19:20:00","Adelaide Oval",R10,10,"Port Adelaide",16,4,100,Footscray,9,8,62,38
+87,"2015-06-07 13:10:00","Sydney Showground",R10,10,GWS,14,13,97,"Brisbane Lions",10,7,67,30
+88,"2015-06-07 15:20:00","Bellerive Oval",R10,10,"North Melbourne",13,7,85,"West Coast",10,15,75,10
+89,"2015-06-07 16:40:00",Docklands,R10,10,"St Kilda",10,9,69,Hawthorn,20,12,132,-63
+90,"2015-06-08 15:20:00",M.C.G.,R10,10,Melbourne,13,7,85,Collingwood,17,8,110,-25
+91,"2015-06-12 19:20:00","Adelaide Oval",R11,11,"Port Adelaide",11,3,69,Geelong,14,8,92,-23
+92,"2015-06-13 13:40:00",Carrara,R11,11,"Gold Coast",7,4,46,Fremantle,6,17,53,-7
+93,"2015-06-13 14:35:00",Subiaco,R11,11,"West Coast",14,12,96,Essendon,6,10,46,50
+94,"2015-06-13 19:20:00",Docklands,R11,11,"North Melbourne",10,15,75,Sydney,14,7,91,-16
+95,"2015-06-14 13:10:00",M.C.G.,R11,11,Collingwood,18,11,119,GWS,11,11,77,42
+96,"2015-06-14 16:40:00",Docklands,R11,11,"St Kilda",12,13,85,Melbourne,12,11,83,2
+97,"2015-06-18 19:20:00","Adelaide Oval",R12,12,Adelaide,12,13,85,Hawthorn,17,12,114,-29
+98,"2015-06-19 19:50:00",M.C.G.,R12,12,Richmond,10,10,70,"West Coast",13,12,90,-20
+99,"2015-06-20 13:40:00",M.C.G.,R12,12,Carlton,17,8,110,"Port Adelaide",16,10,106,4
+100,"2015-06-20 16:35:00","Sydney Showground",R12,12,GWS,8,13,61,"North Melbourne",18,9,117,-56
+101,"2015-06-20 19:20:00",Docklands,R12,12,Footscray,22,14,146,"Brisbane Lions",11,8,74,72
+102,"2015-06-21 15:20:00","Kardinia Park",R12,12,Geelong,13,11,89,Melbourne,18,5,113,-24
+103,"2015-06-25 18:10:00",Subiaco,R13,13,Fremantle,12,8,80,Collingwood,11,7,73,7
+104,"2015-06-26 19:50:00",S.C.G.,R13,13,Sydney,11,11,77,Richmond,14,11,95,-18
+105,"2015-06-27 13:40:00",M.C.G.,R13,13,Hawthorn,16,18,114,Essendon,11,10,76,38
+106,"2015-06-27 16:35:00",Gabba,R13,13,"Brisbane Lions",10,9,69,Adelaide,11,16,82,-13
+107,"2015-06-27 19:20:00",Docklands,R13,13,"St Kilda",7,14,56,Footscray,9,8,62,-6
+108,"2015-06-28 15:20:00",Docklands,R13,13,Carlton,14,19,103,"Gold Coast",9,15,69,34
+109,"2015-07-02 19:20:00",S.C.G.,R14,14,Sydney,14,10,94,"Port Adelaide",12,12,84,10
+110,"2015-07-03 19:50:00",M.C.G.,R14,14,Collingwood,12,19,91,Hawthorn,15,11,101,-10
+111,"2015-07-04 13:40:00",M.C.G.,R14,14,Richmond,10,18,78,GWS,10,9,69,9
+112,"2015-07-04 16:35:00",Carrara,R14,14,"Gold Coast",19,11,125,"North Melbourne",10,10,70,55
+113,"2015-07-04 19:10:00",Docklands,R14,14,Footscray,9,10,64,Carlton,7,11,53,11
+114,"2015-07-04 19:20:00","Marrara Oval",R14,14,Melbourne,9,6,60,"West Coast",16,18,114,-54
+115,"2015-07-05 13:10:00",Docklands,R14,14,Essendon,8,4,52,"St Kilda",25,12,162,-110
+116,"2015-07-05 14:40:00",Subiaco,R14,14,Fremantle,13,6,84,"Brisbane Lions",7,6,48,36
+117,"2015-07-09 19:20:00","Adelaide Oval",R15,15,"Port Adelaide",9,12,66,Collingwood,9,9,63,3
+118,"2015-07-10 19:50:00",M.C.G.,R15,15,Richmond,10,11,71,Carlton,5,11,41,30
+119,"2015-07-11 13:40:00",M.C.G.,R15,15,Essendon,10,9,69,Melbourne,7,18,60,9
+120,"2015-07-11 16:35:00","Cazaly's Stadium",R15,15,Footscray,14,11,95,"Gold Coast",11,7,73,22
+121,"2015-07-11 17:40:00",Docklands,R15,15,"North Melbourne",18,12,120,Geelong,11,13,79,41
+122,"2015-07-11 19:20:00",Subiaco,R15,15,"West Coast",22,15,147,Adelaide,14,7,91,56
+123,"2015-07-12 13:10:00","Sydney Showground",R15,15,GWS,12,12,84,"St Kilda",6,13,49,35
+124,"2015-07-12 15:20:00","York Park",R15,15,Hawthorn,17,13,115,Fremantle,6,7,43,72
+125,"2015-07-12 16:40:00",Gabba,R15,15,"Brisbane Lions",7,7,49,Sydney,10,10,70,-21
+126,"2015-07-17 19:50:00",Docklands,R16,16,"North Melbourne",14,9,93,Essendon,9,14,68,25
+127,"2015-07-18 13:45:00","Kardinia Park",R16,16,Geelong,10,12,72,Footscray,9,10,64,8
+128,"2015-07-18 14:10:00",Carrara,R16,16,"Gold Coast",12,7,79,GWS,13,16,94,-15
+129,"2015-07-18 16:35:00",Docklands,R16,16,Collingwood,7,14,56,"West Coast",11,21,87,-31
+130,"2015-07-18 17:40:00","Stadium Australia",R16,16,Sydney,7,15,57,Hawthorn,23,8,146,-89
+131,"2015-07-18 19:20:00",Subiaco,R16,16,Fremantle,13,17,95,Carlton,8,5,53,42
+132,"2015-07-19 13:10:00",M.C.G.,R16,16,Melbourne,8,12,60,"Brisbane Lions",4,12,36,24
+133,"2015-07-19 14:50:00","Adelaide Oval",R16,16,"Port Adelaide",17,11,113,Adelaide,18,8,116,-3
+134,"2015-07-19 16:40:00",Docklands,R16,16,"St Kilda",10,13,73,Richmond,13,11,89,-16
+135,"2015-07-24 19:50:00",Docklands,R17,17,Carlton,4,11,35,Hawthorn,27,11,173,-138
+136,"2015-07-25 13:40:00","Manuka Oval",R17,17,GWS,6,6,42,Geelong,9,15,69,-27
+137,"2015-07-25 13:45:00","Adelaide Oval",R17,17,Adelaide,19,11,125,"Gold Coast",12,8,80,45
+138,"2015-07-25 16:35:00",M.C.G.,R17,17,Richmond,10,18,78,Fremantle,12,10,82,-4
+139,"2015-07-25 19:20:00",Docklands,R17,17,Essendon,17,14,116,"Port Adelaide",20,9,129,-13
+140,"2015-07-25 19:20:00",Gabba,R17,17,"Brisbane Lions",5,8,38,"North Melbourne",16,14,110,-72
+141,"2015-07-26 13:10:00",Docklands,R17,17,Footscray,15,14,104,Collingwood,13,8,86,18
+142,"2015-07-26 14:40:00",M.C.G.,R17,17,Melbourne,6,10,46,"St Kilda",12,11,83,-37
+143,"2015-07-26 15:20:00",Subiaco,R17,17,"West Coast",15,13,103,Sydney,7,9,51,52
+144,"2015-07-31 19:50:00",M.C.G.,R18,18,Hawthorn,7,11,53,Richmond,10,11,71,-18
+145,"2015-08-01 13:45:00","Kardinia Park",R18,18,Geelong,17,11,113,"Brisbane Lions",8,9,57,56
+146,"2015-08-01 14:10:00",M.C.G.,R18,18,Collingwood,7,12,54,Melbourne,13,13,91,-37
+147,"2015-08-01 16:35:00",S.C.G.,R18,18,Sydney,17,15,117,Adelaide,9,11,65,52
+148,"2015-08-01 19:20:00",Docklands,R18,18,Carlton,8,6,54,"North Melbourne",18,10,118,-64
+149,"2015-08-01 19:20:00",Carrara,R18,18,"Gold Coast",12,11,83,"West Coast",11,17,83,0
+150,"2015-08-02 12:40:00","Adelaide Oval",R18,18,"Port Adelaide",17,10,112,"St Kilda",6,13,49,63
+151,"2015-08-02 14:40:00",Docklands,R18,18,Essendon,5,10,40,Footscray,19,13,127,-87
+152,"2015-08-02 15:20:00",Subiaco,R18,18,Fremantle,12,12,84,GWS,9,9,63,21
+153,"2015-08-07 19:20:00","Adelaide Oval",R19,19,Adelaide,11,22,88,Richmond,8,4,52,36
+154,"2015-08-08 13:45:00",M.C.G.,R19,19,Collingwood,16,9,105,Carlton,13,9,87,18
+155,"2015-08-08 14:10:00",Docklands,R19,19,Footscray,19,14,128,"Port Adelaide",9,10,64,64
+156,"2015-08-08 16:35:00",Gabba,R19,19,"Brisbane Lions",14,16,100,"Gold Coast",17,12,114,-14
+157,"2015-08-08 17:40:00","Kardinia Park",R19,19,Geelong,14,11,95,Sydney,9,9,63,32
+158,"2015-08-08 19:20:00",Subiaco,R19,19,"West Coast",11,8,74,Hawthorn,13,10,88,-14
+159,"2015-08-09 13:10:00",M.C.G.,R19,19,Melbourne,14,8,92,"North Melbourne",19,13,127,-35
+160,"2015-08-09 15:20:00","Sydney Showground",R19,19,GWS,14,9,93,Essendon,8,13,61,32
+161,"2015-08-09 16:40:00",Docklands,R19,19,"St Kilda",8,11,59,Fremantle,15,6,96,-37
+162,"2015-08-14 19:50:00",S.C.G.,R20,20,Sydney,13,9,87,Collingwood,10,16,76,11
+163,"2015-08-15 13:45:00",Docklands,R20,20,Essendon,8,11,59,Adelaide,27,9,171,-112
+164,"2015-08-15 14:10:00","Bellerive Oval",R20,20,"North Melbourne",18,12,120,"St Kilda",11,17,83,37
+165,"2015-08-15 16:05:00","Adelaide Oval",R20,20,"Port Adelaide",16,15,111,GWS,13,12,90,21
+166,"2015-08-15 19:20:00",Gabba,R20,20,"Brisbane Lions",20,11,131,Carlton,9,13,67,64
+167,"2015-08-15 19:20:00",M.C.G.,R20,20,Geelong,12,13,85,Hawthorn,19,7,121,-36
+168,"2015-08-16 13:10:00",M.C.G.,R20,20,Richmond,22,6,138,"Gold Coast",8,7,55,83
+169,"2015-08-16 14:40:00",Docklands,R20,20,Footscray,24,9,153,Melbourne,8,7,55,98
+170,"2015-08-16 15:20:00",Subiaco,R20,20,Fremantle,11,14,80,"West Coast",15,14,104,-24
+171,"2015-08-21 19:50:00",Docklands,R21,21,Hawthorn,13,8,86,"Port Adelaide",16,12,108,-22
+172,"2015-08-22 13:45:00",M.C.G.,R21,21,Collingwood,7,14,56,Richmond,23,9,147,-91
+173,"2015-08-22 14:10:00","Sydney Showground",R21,21,GWS,6,8,44,Sydney,20,13,133,-89
+174,"2015-08-22 16:35:00",Carrara,R21,21,"Gold Coast",14,13,97,Essendon,14,11,95,2
+175,"2015-08-22 19:10:00",Docklands,R21,21,"St Kilda",14,13,97,Geelong,15,7,97,0
+176,"2015-08-22 19:20:00","Adelaide Oval",R21,21,Adelaide,20,11,131,"Brisbane Lions",6,8,44,87
+177,"2015-08-23 13:10:00",Docklands,R21,21,"North Melbourne",14,10,94,Fremantle,12,11,83,11
+178,"2015-08-23 14:40:00",M.C.G.,R21,21,Carlton,12,6,78,Melbourne,7,13,55,23
+179,"2015-08-23 15:20:00",Subiaco,R21,21,"West Coast",25,12,162,Footscray,13,7,85,77
+180,"2015-08-28 19:50:00",M.C.G.,R22,22,Geelong,9,8,62,Collingwood,17,8,110,-48
+181,"2015-08-29 13:45:00","Sydney Showground",R22,22,GWS,20,12,132,Carlton,7,9,51,81
+182,"2015-08-29 14:10:00","York Park",R22,22,Hawthorn,21,8,134,"Brisbane Lions",9,8,62,72
+183,"2015-08-29 16:35:00",Docklands,R22,22,"North Melbourne",10,13,73,Footscray,14,12,96,-23
+184,"2015-08-29 19:20:00",M.C.G.,R22,22,Essendon,7,5,47,Richmond,10,14,74,-27
+185,"2015-08-29 19:20:00",Carrara,R22,22,"Gold Coast",7,9,51,"Port Adelaide",12,16,88,-37
+186,"2015-08-30 12:40:00","Adelaide Oval",R22,22,Adelaide,19,12,126,"West Coast",10,9,69,57
+187,"2015-08-30 14:40:00",Docklands,R22,22,"St Kilda",4,14,38,Sydney,20,15,135,-97
+188,"2015-08-30 15:20:00",Subiaco,R22,22,Fremantle,17,6,108,Melbourne,8,6,54,54
+189,"2015-09-04 19:50:00",Docklands,R23,23,Richmond,16,12,108,"North Melbourne",10,7,67,41
+190,"2015-09-05 13:05:00","Kardinia Park",R23,23,Geelong,17,17,119,Adelaide,11,14,80,39
+191,"2015-09-05 13:45:00",Gabba,R23,23,"Brisbane Lions",19,16,130,Footscray,19,8,122,8
+192,"2015-09-05 15:20:00","Adelaide Oval",R23,23,"Port Adelaide",18,14,122,Fremantle,8,5,53,69
+193,"2015-09-05 16:40:00",M.C.G.,R23,23,Hawthorn,17,11,113,Carlton,8,8,56,57
+194,"2015-09-05 17:40:00",S.C.G.,R23,23,Sydney,19,13,127,"Gold Coast",9,10,64,63
+195,"2015-09-05 19:20:00",Subiaco,R23,23,"West Coast",18,17,125,"St Kilda",4,6,30,95
+196,"2015-09-06 13:10:00",Docklands,R23,23,Melbourne,15,13,103,GWS,11,11,77,26
+197,"2015-09-06 15:20:00",M.C.G.,R23,23,Collingwood,14,8,92,Essendon,14,11,95,-3
+198,"2015-09-11 18:20:00",Subiaco,QF,24,"West Coast",14,12,96,Hawthorn,9,10,64,32
+199,"2015-09-12 13:20:00",Subiaco,QF,24,Fremantle,10,9,69,Sydney,7,18,60,9
+200,"2015-09-12 19:20:00",M.C.G.,EF,24,Adelaide,16,13,109,Footscray,14,18,102,7
+201,"2015-09-13 15:20:00",M.C.G.,EF,24,"North Melbourne",15,15,105,Richmond,14,4,88,17
+202,"2015-09-18 19:50:00",M.C.G.,SF,25,Hawthorn,21,9,135,Adelaide,8,13,61,74
+203,"2015-09-19 19:20:00","Stadium Australia",SF,25,"North Melbourne",11,11,77,Sydney,7,9,51,26
+204,"2015-09-25 18:20:00",Subiaco,PF,26,Hawthorn,15,4,94,Fremantle,10,7,67,27
+205,"2015-09-26 17:45:00",Subiaco,PF,26,"West Coast",10,20,80,"North Melbourne",7,13,55,25
+206,"2015-10-03 14:30:00",M.C.G.,GF,27,Hawthorn,16,11,107,"West Coast",8,13,61,46
+207,"2016-03-24 19:20:00",M.C.G.,R1,1,Richmond,14,8,92,Carlton,12,11,83,9
+208,"2016-03-26 13:40:00",M.C.G.,R1,1,Melbourne,12,8,80,GWS,10,18,78,2
+209,"2016-03-26 15:35:00",Carrara,R1,1,"Gold Coast",17,19,121,Essendon,9,6,60,61
+210,"2016-03-26 19:25:00",Docklands,R1,1,"North Melbourne",16,11,107,Adelaide,14,13,97,10
+211,"2016-03-26 19:25:00",S.C.G.,R1,1,Sydney,18,25,133,Collingwood,7,11,53,80
+212,"2016-03-27 13:10:00",Docklands,R1,1,Footscray,15,13,103,Fremantle,5,8,38,65
+213,"2016-03-27 14:50:00","Adelaide Oval",R1,1,"Port Adelaide",20,13,133,"St Kilda",15,10,100,33
+214,"2016-03-27 16:40:00",Subiaco,R1,1,"West Coast",26,10,166,"Brisbane Lions",15,12,102,64
+215,"2016-03-28 15:20:00",M.C.G.,R1,1,Geelong,18,8,116,Hawthorn,12,14,86,30
+216,"2016-04-01 19:50:00",M.C.G.,R2,2,Collingwood,13,9,87,Richmond,12,14,86,1
+217,"2016-04-02 13:15:00","Adelaide Oval",R2,2,Adelaide,22,12,144,"Port Adelaide",11,20,86,58
+218,"2016-04-02 14:10:00",M.C.G.,R2,2,Essendon,11,14,80,Melbourne,10,7,67,13
+219,"2016-04-02 15:35:00",Gabba,R2,2,"Brisbane Lions",11,17,83,"North Melbourne",17,15,117,-34
+220,"2016-04-02 16:40:00",Docklands,R2,2,"St Kilda",5,6,36,Footscray,13,15,93,-57
+221,"2016-04-02 19:25:00",Subiaco,R2,2,Fremantle,14,16,100,"Gold Coast",19,12,126,-26
+222,"2016-04-03 13:10:00","Manuka Oval",R2,2,GWS,13,11,89,Geelong,11,10,76,13
+223,"2016-04-03 15:20:00",M.C.G.,R2,2,Hawthorn,14,15,99,"West Coast",7,11,53,46
+224,"2016-04-03 16:40:00",Docklands,R2,2,Carlton,10,11,71,Sydney,20,11,131,-60
+225,"2016-04-08 19:20:00","Adelaide Oval",R3,3,"Port Adelaide",17,10,112,Essendon,7,9,51,61
+226,"2016-04-09 13:45:00",M.C.G.,R3,3,"St Kilda",18,11,119,Collingwood,14,6,90,29
+227,"2016-04-09 14:10:00",Docklands,R3,3,Richmond,13,14,92,Adelaide,19,14,128,-36
+228,"2016-04-09 16:35:00",S.C.G.,R3,3,Sydney,14,9,93,GWS,10,8,68,25
+229,"2016-04-09 17:40:00",Carrara,R3,3,"Gold Coast",13,17,95,Carlton,5,11,41,54
+230,"2016-04-09 19:25:00",Subiaco,R3,3,"West Coast",12,20,92,Fremantle,8,11,59,33
+231,"2016-04-10 13:10:00","Bellerive Oval",R3,3,"North Melbourne",21,10,136,Melbourne,20,11,131,5
+232,"2016-04-10 15:20:00",Docklands,R3,3,Footscray,13,12,90,Hawthorn,14,9,93,-3
+233,"2016-04-10 16:40:00","Kardinia Park",R3,3,Geelong,18,17,125,"Brisbane Lions",7,14,56,69
+234,"2016-04-15 18:10:00",Subiaco,R4,4,"West Coast",18,17,125,Richmond,9,3,57,68
+235,"2016-04-16 13:45:00",M.C.G.,R4,4,Essendon,6,6,42,Geelong,9,18,72,-30
+236,"2016-04-16 14:10:00","York Park",R4,4,Hawthorn,13,9,87,"St Kilda",13,6,84,3
+237,"2016-04-16 16:35:00",Gabba,R4,4,"Brisbane Lions",14,23,107,"Gold Coast",14,10,94,13
+238,"2016-04-16 19:10:00",Docklands,R4,4,Carlton,7,7,49,Footscray,13,7,85,-36
+239,"2016-04-16 19:25:00","Adelaide Oval",R4,4,Adelaide,16,17,113,Sydney,15,13,103,10
+240,"2016-04-17 13:10:00","Manuka Oval",R4,4,GWS,22,19,151,"Port Adelaide",9,11,65,86
+241,"2016-04-17 15:20:00",M.C.G.,R4,4,Collingwood,9,13,67,Melbourne,16,6,102,-35
+242,"2016-04-17 16:40:00",Docklands,R4,4,"North Melbourne",20,12,132,Fremantle,14,17,101,31
+243,"2016-04-22 19:50:00",M.C.G.,R5,5,Hawthorn,17,10,112,Adelaide,17,7,109,3
+244,"2016-04-23 13:45:00",S.C.G.,R5,5,Sydney,12,16,88,"West Coast",7,7,49,39
+245,"2016-04-23 16:35:00",Carrara,R5,5,"Gold Coast",11,15,81,"North Melbourne",18,11,119,-38
+246,"2016-04-23 19:15:00",Docklands,R5,5,Footscray,17,18,120,"Brisbane Lions",10,7,67,53
+247,"2016-04-23 19:25:00","Adelaide Oval",R5,5,"Port Adelaide",8,11,59,Geelong,16,11,107,-48
+248,"2016-04-24 13:10:00",Docklands,R5,5,"St Kilda",12,7,79,GWS,19,12,126,-47
+249,"2016-04-24 14:15:00",Subiaco,R5,5,Fremantle,9,14,68,Carlton,10,12,72,-4
+250,"2016-04-24 19:10:00",M.C.G.,R5,5,Melbourne,20,9,129,Richmond,14,12,96,33
+251,"2016-04-25 15:20:00",M.C.G.,R5,5,Collingwood,22,10,142,Essendon,11,7,73,69
+252,"2016-04-29 19:50:00",Docklands,R6,6,"North Melbourne",9,7,61,Footscray,6,9,45,16
+253,"2016-04-30 13:40:00",Docklands,R6,6,Melbourne,15,6,96,"St Kilda",20,15,135,-39
+254,"2016-04-30 13:45:00","Adelaide Oval",R6,6,Adelaide,14,13,97,Fremantle,8,16,64,33
+255,"2016-04-30 16:35:00","Sydney Showground",R6,6,GWS,24,14,158,Hawthorn,12,11,83,75
+256,"2016-04-30 19:25:00","Kardinia Park",R6,6,Geelong,25,18,168,"Gold Coast",7,6,48,120
+257,"2016-04-30 19:25:00",M.C.G.,R6,6,Richmond,8,11,59,"Port Adelaide",13,16,94,-35
+258,"2016-05-01 13:10:00",Gabba,R6,6,"Brisbane Lions",14,10,94,Sydney,15,7,97,-3
+259,"2016-05-01 14:40:00",M.C.G.,R6,6,Carlton,10,12,72,Essendon,8,9,57,15
+260,"2016-05-01 15:20:00",Subiaco,R6,6,"West Coast",18,16,124,Collingwood,9,8,62,62
+261,"2016-05-06 19:50:00",M.C.G.,R7,7,Richmond,13,12,90,Hawthorn,21,10,136,-46
+262,"2016-05-07 13:45:00",M.C.G.,R7,7,Collingwood,12,12,84,Carlton,15,9,99,-15
+263,"2016-05-07 14:10:00","Kardinia Park",R7,7,Geelong,18,15,123,"West Coast",12,7,79,44
+264,"2016-05-07 16:35:00",S.C.G.,R7,7,Sydney,20,15,135,Essendon,7,12,54,81
+265,"2016-05-07 17:10:00",Carrara,R7,7,"Gold Coast",14,3,87,Melbourne,24,16,160,-73
+266,"2016-05-07 18:10:00",Docklands,R7,7,Footscray,18,15,123,Adelaide,17,6,108,15
+267,"2016-05-07 19:40:00",Subiaco,R7,7,Fremantle,11,11,77,GWS,14,11,95,-18
+268,"2016-05-08 15:20:00",Docklands,R7,7,"St Kilda",11,9,75,"North Melbourne",11,16,82,-7
+269,"2016-05-08 16:10:00","Adelaide Oval",R7,7,"Port Adelaide",21,10,136,"Brisbane Lions",7,17,59,77
+270,"2016-05-13 19:20:00","Adelaide Oval",R8,8,Adelaide,11,6,72,Geelong,13,20,98,-26
+271,"2016-05-14 13:45:00",Docklands,R8,8,Essendon,8,12,60,"North Melbourne",10,14,74,-14
+272,"2016-05-14 14:10:00","York Park",R8,8,Hawthorn,17,14,116,Fremantle,11,9,75,41
+273,"2016-05-14 16:35:00","Sydney Showground",R8,8,GWS,22,17,149,"Gold Coast",9,4,58,91
+274,"2016-05-14 19:25:00",Gabba,R8,8,"Brisbane Lions",10,5,65,Collingwood,20,23,143,-78
+275,"2016-05-14 19:25:00",M.C.G.,R8,8,Richmond,14,17,101,Sydney,15,10,100,1
+276,"2016-05-15 13:10:00",Docklands,R8,8,Carlton,14,9,93,"Port Adelaide",13,13,91,2
+277,"2016-05-15 14:40:00",M.C.G.,R8,8,Melbourne,12,10,82,Footscray,17,12,114,-32
+278,"2016-05-15 15:20:00",Subiaco,R8,8,"West Coast",20,12,132,"St Kilda",3,11,29,103
+279,"2016-05-20 19:50:00",M.C.G.,R9,9,Hawthorn,7,13,55,Sydney,10,9,69,-14
+280,"2016-05-21 13:45:00",M.C.G.,R9,9,Collingwood,16,8,104,Geelong,11,14,80,24
+281,"2016-05-21 14:10:00",Carrara,R9,9,"Gold Coast",11,8,74,Adelaide,22,17,149,-75
+282,"2016-05-21 16:05:00","Adelaide Oval",R9,9,"Port Adelaide",13,8,86,"West Coast",14,10,94,-8
+283,"2016-05-21 17:40:00",Docklands,R9,9,"North Melbourne",17,11,113,Carlton,6,10,46,67
+284,"2016-05-21 19:25:00",Subiaco,R9,9,Fremantle,6,9,45,Richmond,11,17,83,-38
+285,"2016-05-22 13:10:00",M.C.G.,R9,9,Melbourne,19,17,131,"Brisbane Lions",9,14,68,63
+286,"2016-05-22 15:20:00","Sydney Showground",R9,9,GWS,15,8,98,Footscray,10,13,73,25
+287,"2016-05-22 16:40:00",Docklands,R9,9,"St Kilda",16,13,109,Essendon,9,9,63,46
+288,"2016-05-27 19:50:00",S.C.G.,R10,10,Sydney,14,7,91,"North Melbourne",9,11,65,26
+289,"2016-05-28 13:40:00",Gabba,R10,10,"Brisbane Lions",13,9,87,Hawthorn,21,9,135,-48
+290,"2016-05-28 13:45:00","Traeger Park",R10,10,Melbourne,10,16,76,"Port Adelaide",18,13,121,-45
+291,"2016-05-28 16:35:00",Docklands,R10,10,"St Kilda",15,11,101,Fremantle,10,7,67,34
+292,"2016-05-28 19:10:00",M.C.G.,R10,10,Essendon,10,7,67,Richmond,16,9,105,-38
+293,"2016-05-28 19:25:00","Adelaide Oval",R10,10,Adelaide,15,17,107,GWS,13,7,85,22
+294,"2016-05-29 13:10:00",Docklands,R10,10,Carlton,16,8,104,Geelong,12,13,85,19
+295,"2016-05-29 14:40:00",M.C.G.,R10,10,Collingwood,7,11,53,Footscray,11,8,74,-21
+296,"2016-05-29 15:20:00",Subiaco,R10,10,"West Coast",20,12,132,"Gold Coast",7,13,55,77
+297,"2016-06-03 19:50:00","Bellerive Oval",R11,11,"North Melbourne",18,16,124,Richmond,7,12,54,70
+298,"2016-06-04 13:45:00",M.C.G.,R11,11,Hawthorn,11,16,82,Melbourne,10,4,64,18
+299,"2016-06-04 14:10:00",Docklands,R11,11,Carlton,16,6,102,"Brisbane Lions",9,10,64,38
+300,"2016-06-04 16:35:00","Kardinia Park",R11,11,Geelong,14,14,98,GWS,14,4,88,10
+301,"2016-06-04 17:40:00",Carrara,R11,11,"Gold Coast",6,5,41,Sydney,11,13,79,-38
+302,"2016-06-04 19:25:00",Subiaco,R11,11,Fremantle,20,6,126,Essendon,6,11,47,79
+303,"2016-06-05 13:10:00",M.C.G.,R11,11,Collingwood,7,16,58,"Port Adelaide",19,11,125,-67
+304,"2016-06-05 15:20:00",Docklands,R11,11,Footscray,12,11,83,"West Coast",11,9,75,8
+305,"2016-06-05 16:10:00","Adelaide Oval",R11,11,Adelaide,19,19,133,"St Kilda",6,9,45,88
+306,"2016-06-10 19:50:00",Docklands,R12,12,Essendon,6,7,43,Hawthorn,23,13,151,-108
+307,"2016-06-11 13:10:00","Adelaide Oval",R12,12,"Port Adelaide",14,13,97,Footscray,15,10,100,-3
+308,"2016-06-11 16:35:00",Gabba,R12,12,"Brisbane Lions",9,10,64,Fremantle,23,9,147,-83
+309,"2016-06-11 17:40:00",Docklands,R12,12,Geelong,15,15,105,"North Melbourne",12,2,74,31
+310,"2016-06-11 19:25:00",Subiaco,R12,12,"West Coast",11,10,76,Adelaide,15,15,105,-29
+311,"2016-06-12 13:10:00",Docklands,R12,12,"St Kilda",17,8,110,Carlton,12,6,78,32
+312,"2016-06-12 15:20:00",M.C.G.,R12,12,Richmond,17,12,114,"Gold Coast",15,7,97,17
+313,"2016-06-12 16:40:00","Sydney Showground",R12,12,GWS,15,15,105,Sydney,9,9,63,42
+314,"2016-06-13 15:20:00",M.C.G.,R12,12,Melbourne,16,8,104,Collingwood,8,10,58,46
+315,"2016-06-17 19:50:00",Docklands,R13,13,"North Melbourne",11,18,84,Hawthorn,14,9,93,-9
+316,"2016-06-18 13:40:00",Gabba,R13,13,"Brisbane Lions",12,10,82,"West Coast",20,11,131,-49
+317,"2016-06-18 14:35:00",Subiaco,R13,13,Fremantle,12,14,86,"Port Adelaide",9,15,69,17
+318,"2016-06-18 19:25:00",Docklands,R13,13,Footscray,5,13,43,Geelong,16,4,100,-57
+319,"2016-06-19 13:10:00",S.C.G.,R13,13,Sydney,12,14,86,Melbourne,4,7,31,55
+320,"2016-06-19 16:40:00",Docklands,R13,13,Essendon,12,18,90,GWS,17,15,117,-27
+321,"2016-06-23 19:20:00","Adelaide Oval",R14,14,Adelaide,12,28,100,"North Melbourne",10,7,67,33
+322,"2016-06-24 19:50:00",M.C.G.,R14,14,Collingwood,12,13,85,Fremantle,5,7,37,48
+323,"2016-06-25 13:40:00",M.C.G.,R14,14,Richmond,17,15,117,"Brisbane Lions",11,9,75,42
+324,"2016-06-25 16:35:00","Sydney Showground",R14,14,GWS,18,19,127,Carlton,9,11,65,62
+325,"2016-06-25 19:25:00",Docklands,R14,14,"St Kilda",14,9,93,Geelong,13,12,90,3
+326,"2016-06-26 15:20:00","York Park",R14,14,Hawthorn,12,14,86,"Gold Coast",8,12,60,26
+327,"2016-06-30 18:10:00",Subiaco,R15,15,"West Coast",20,10,130,Essendon,7,10,52,78
+328,"2016-07-01 19:20:00","Adelaide Oval",R15,15,"Port Adelaide",14,10,94,Richmond,8,8,56,38
+329,"2016-07-02 13:40:00",Carrara,R15,15,"Gold Coast",15,18,108,"St Kilda",8,20,68,40
+330,"2016-07-02 16:35:00",S.C.G.,R15,15,Sydney,11,13,79,Footscray,13,5,83,-4
+331,"2016-07-02 19:25:00",M.C.G.,R15,15,Carlton,6,9,45,Collingwood,8,9,57,-12
+332,"2016-07-03 15:20:00",M.C.G.,R15,15,Melbourne,15,8,98,Adelaide,18,12,120,-22
+333,"2016-07-07 19:20:00","Adelaide Oval",R16,16,"Port Adelaide",12,7,79,Hawthorn,15,11,101,-22
+334,"2016-07-08 19:50:00","Kardinia Park",R16,16,Geelong,9,6,60,Sydney,15,8,98,-38
+335,"2016-07-09 13:40:00","Sydney Showground",R16,16,GWS,14,9,93,Collingwood,19,11,125,-32
+336,"2016-07-09 16:35:00",Carrara,R16,16,"Gold Coast",22,7,139,"Brisbane Lions",17,11,113,26
+337,"2016-07-09 19:10:00",Docklands,R16,16,Footscray,12,13,85,Richmond,11,9,75,10
+338,"2016-07-09 19:25:00","Marrara Oval",R16,16,Melbourne,12,15,87,Fremantle,8,7,55,32
+339,"2016-07-10 13:10:00",M.C.G.,R16,16,Carlton,7,5,47,Adelaide,16,11,107,-60
+340,"2016-07-10 13:20:00",Subiaco,R16,16,"West Coast",16,8,104,"North Melbourne",11,6,72,32
+341,"2016-07-10 16:40:00",Docklands,R16,16,Essendon,14,14,98,"St Kilda",17,7,109,-11
+342,"2016-07-14 19:20:00",S.C.G.,R17,17,Sydney,10,10,70,Hawthorn,11,9,75,-5
+343,"2016-07-15 18:10:00",Subiaco,R17,17,Fremantle,9,7,61,Geelong,11,12,78,-17
+344,"2016-07-16 13:40:00",M.C.G.,R17,17,Richmond,16,6,102,Essendon,11,17,83,19
+345,"2016-07-16 16:35:00",Docklands,R17,17,"North Melbourne",10,17,77,"Port Adelaide",16,9,105,-28
+346,"2016-07-16 19:10:00","Cazaly's Stadium",R17,17,Footscray,15,17,107,"Gold Coast",8,11,59,48
+347,"2016-07-16 19:25:00","Adelaide Oval",R17,17,Adelaide,14,13,97,Collingwood,10,9,69,28
+348,"2016-07-17 13:10:00",M.C.G.,R17,17,Carlton,11,9,75,"West Coast",12,10,82,-7
+349,"2016-07-17 15:20:00",Docklands,R17,17,"St Kilda",15,20,110,Melbourne,11,8,74,36
+350,"2016-07-17 16:40:00",Gabba,R17,17,"Brisbane Lions",9,13,67,GWS,22,14,146,-79
+351,"2016-07-22 19:50:00",Docklands,R18,18,Collingwood,12,12,84,"North Melbourne",18,16,124,-40
+352,"2016-07-23 13:45:00",S.C.G.,R18,18,Sydney,10,14,74,Carlton,10,8,68,6
+353,"2016-07-23 14:10:00",Carrara,R18,18,"Gold Coast",16,9,105,Fremantle,12,9,81,24
+354,"2016-07-23 14:35:00",Subiaco,R18,18,"West Coast",10,6,66,Melbourne,8,12,60,6
+355,"2016-07-23 19:25:00","Kardinia Park",R18,18,Geelong,12,13,85,Adelaide,7,13,55,30
+356,"2016-07-23 19:25:00",Docklands,R18,18,Footscray,9,6,60,"St Kilda",11,9,75,-15
+357,"2016-07-24 13:10:00",Docklands,R18,18,Essendon,12,19,91,"Brisbane Lions",20,8,128,-37
+358,"2016-07-24 15:20:00",M.C.G.,R18,18,Hawthorn,16,18,114,Richmond,5,14,44,70
+359,"2016-07-24 16:10:00","Adelaide Oval",R18,18,"Port Adelaide",9,6,60,GWS,11,13,79,-19
+360,"2016-07-29 19:50:00","Kardinia Park",R19,19,Geelong,16,7,103,Footscray,11,12,78,25
+361,"2016-07-30 13:45:00","Manuka Oval",R19,19,GWS,17,9,111,Richmond,3,5,23,88
+362,"2016-07-30 14:10:00","York Park",R19,19,Hawthorn,10,14,74,Carlton,7,13,55,19
+363,"2016-07-30 16:35:00",M.C.G.,R19,19,Collingwood,13,13,91,"West Coast",11,6,72,19
+364,"2016-07-30 19:25:00",Docklands,R19,19,"North Melbourne",12,13,85,"St Kilda",8,14,62,23
+365,"2016-07-30 19:25:00",Gabba,R19,19,"Brisbane Lions",11,13,79,"Port Adelaide",25,23,173,-94
+366,"2016-07-31 13:10:00",M.C.G.,R19,19,Melbourne,9,12,66,"Gold Coast",9,10,64,2
+367,"2016-07-31 13:20:00",Subiaco,R19,19,Fremantle,7,5,47,Sydney,21,11,137,-90
+368,"2016-07-31 16:10:00","Adelaide Oval",R19,19,Adelaide,22,11,143,Essendon,9,7,61,82
+369,"2016-08-05 19:50:00",M.C.G.,R20,20,Richmond,14,8,92,Collingwood,11,11,77,15
+370,"2016-08-06 13:45:00",S.C.G.,R20,20,Sydney,14,16,100,"Port Adelaide",4,9,33,67
+371,"2016-08-06 14:10:00",M.C.G.,R20,20,Melbourne,17,8,110,Hawthorn,11,15,81,29
+372,"2016-08-06 16:35:00",Carrara,R20,20,"Gold Coast",13,6,84,GWS,14,8,92,-8
+373,"2016-08-06 19:10:00",Docklands,R20,20,Footscray,9,7,61,"North Melbourne",7,5,47,14
+374,"2016-08-06 19:25:00","Adelaide Oval",R20,20,Adelaide,27,15,177,"Brisbane Lions",6,3,39,138
+375,"2016-08-07 13:10:00",M.C.G.,R20,20,Carlton,7,9,51,"St Kilda",19,8,122,-71
+376,"2016-08-07 14:40:00",Docklands,R20,20,Geelong,15,10,100,Essendon,4,10,34,66
+377,"2016-08-07 15:20:00",Subiaco,R20,20,Fremantle,9,10,64,"West Coast",17,8,110,-46
+378,"2016-08-12 19:50:00",Docklands,R21,21,Footscray,14,11,95,Collingwood,14,8,92,3
+379,"2016-08-13 13:45:00",Gabba,R21,21,"Brisbane Lions",15,9,99,Carlton,13,17,95,4
+380,"2016-08-13 14:10:00",M.C.G.,R21,21,Hawthorn,14,12,96,"North Melbourne",8,9,57,39
+381,"2016-08-13 16:35:00","Sydney Showground",R21,21,GWS,14,12,96,"West Coast",14,13,97,-1
+382,"2016-08-13 19:10:00",Docklands,R21,21,"St Kilda",11,10,76,Sydney,23,8,146,-70
+383,"2016-08-13 19:25:00","Adelaide Oval",R21,21,"Port Adelaide",8,6,54,Melbourne,13,16,94,-40
+384,"2016-08-14 13:10:00",Docklands,R21,21,Essendon,11,9,75,"Gold Coast",9,15,69,6
+385,"2016-08-14 14:40:00",M.C.G.,R21,21,Richmond,12,6,78,Geelong,10,22,82,-4
+386,"2016-08-14 15:20:00",Subiaco,R21,21,Fremantle,11,4,70,Adelaide,21,16,142,-72
+387,"2016-08-19 18:10:00",Subiaco,R22,22,"West Coast",13,14,92,Hawthorn,10,7,67,25
+388,"2016-08-20 13:45:00","Bellerive Oval",R22,22,"North Melbourne",10,16,76,Sydney,12,13,85,-9
+389,"2016-08-20 14:10:00",M.C.G.,R22,22,Richmond,6,10,46,"St Kilda",7,13,55,-9
+390,"2016-08-20 16:35:00","Sydney Showground",R22,22,GWS,19,15,129,Fremantle,5,7,37,92
+391,"2016-08-20 19:10:00",Docklands,R22,22,Collingwood,16,22,118,"Gold Coast",6,11,47,71
+392,"2016-08-20 19:25:00","Adelaide Oval",R22,22,"Port Adelaide",14,10,94,Adelaide,15,19,109,-15
+393,"2016-08-21 13:10:00",M.C.G.,R22,22,Carlton,11,12,78,Melbourne,7,16,58,20
+394,"2016-08-21 15:20:00",Gabba,R22,22,"Brisbane Lions",10,9,69,Geelong,19,15,129,-60
+395,"2016-08-21 16:40:00",Docklands,R22,22,Essendon,7,11,53,Footscray,14,9,93,-40
+396,"2016-08-26 19:40:00","Adelaide Oval",R23,23,Adelaide,10,11,71,"West Coast",14,16,100,-29
+397,"2016-08-27 13:45:00","Kardinia Park",R23,23,Geelong,24,11,155,Melbourne,6,8,44,111
+398,"2016-08-27 14:10:00",M.C.G.,R23,23,Essendon,15,13,103,Carlton,10,19,79,24
+399,"2016-08-27 16:35:00",S.C.G.,R23,23,Sydney,25,14,164,Richmond,7,9,51,113
+400,"2016-08-27 19:25:00",Docklands,R23,23,"North Melbourne",9,9,63,GWS,14,16,100,-37
+401,"2016-08-27 19:25:00",Carrara,R23,23,"Gold Coast",9,12,66,"Port Adelaide",13,11,89,-23
+402,"2016-08-28 13:10:00",Docklands,R23,23,"St Kilda",25,11,161,"Brisbane Lions",15,13,103,58
+403,"2016-08-28 14:40:00",M.C.G.,R23,23,Hawthorn,17,10,112,Collingwood,17,9,111,1
+404,"2016-08-28 15:20:00",Subiaco,R23,23,Fremantle,10,9,69,Footscray,6,13,49,20
+405,"2016-09-08 18:10:00",Subiaco,EF,24,Footscray,14,15,99,"West Coast",7,10,52,47
+406,"2016-09-09 19:50:00",M.C.G.,QF,24,Geelong,12,13,85,Hawthorn,12,11,83,2
+407,"2016-09-10 15:20:00","Stadium Australia",QF,24,GWS,12,19,91,Sydney,7,13,55,36
+408,"2016-09-10 19:10:00","Adelaide Oval",EF,24,Adelaide,21,15,141,"North Melbourne",12,7,79,62
+409,"2016-09-16 19:50:00",M.C.G.,SF,25,Footscray,16,11,107,Hawthorn,12,12,84,23
+410,"2016-09-17 19:25:00",S.C.G.,SF,25,Sydney,18,10,118,Adelaide,12,10,82,36
+411,"2016-09-23 19:50:00",M.C.G.,PF,26,Sydney,15,7,97,Geelong,8,12,60,37
+412,"2016-09-24 19:15:00","Sydney Showground",PF,26,Footscray,13,11,89,GWS,12,11,83,6
+413,"2016-10-01 14:30:00",M.C.G.,GF,27,Footscray,13,11,89,Sydney,10,7,67,22
+414,"2017-03-23 19:20:00",M.C.G.,R1,1,Carlton,14,5,89,Richmond,20,12,132,-43
+415,"2017-03-24 19:50:00",M.C.G.,R1,1,Collingwood,12,14,86,Footscray,15,10,100,-14
+416,"2017-03-25 16:35:00",Docklands,R1,1,"St Kilda",13,12,90,Melbourne,18,12,120,-30
+417,"2017-03-25 16:35:00",S.C.G.,R1,1,Sydney,12,10,82,"Port Adelaide",17,8,110,-28
+418,"2017-03-25 19:05:00",M.C.G.,R1,1,Essendon,17,14,116,Hawthorn,12,19,91,25
+419,"2017-03-25 19:25:00",Carrara,R1,1,"Gold Coast",14,12,96,"Brisbane Lions",15,8,98,-2
+420,"2017-03-26 13:10:00",Docklands,R1,1,"North Melbourne",13,15,93,"West Coast",21,10,136,-43
+421,"2017-03-26 14:50:00","Adelaide Oval",R1,1,Adelaide,22,15,147,GWS,14,7,91,56
+422,"2017-03-26 16:40:00",Subiaco,R1,1,Fremantle,10,13,73,Geelong,18,7,115,-42
+423,"2017-03-30 19:20:00",M.C.G.,R2,2,Richmond,14,15,99,Collingwood,11,14,80,19
+424,"2017-03-31 19:50:00",Docklands,R2,2,Footscray,16,14,110,Sydney,13,9,87,23
+425,"2017-04-01 13:45:00",M.C.G.,R2,2,Hawthorn,13,11,89,Adelaide,16,17,113,-24
+426,"2017-04-01 16:35:00","Sydney Showground",R2,2,GWS,24,16,160,"Gold Coast",8,10,58,102
+427,"2017-04-01 16:40:00",Gabba,R2,2,"Brisbane Lions",12,12,84,Essendon,17,9,111,-27
+428,"2017-04-01 18:25:00",Subiaco,R2,2,"West Coast",18,8,116,"St Kilda",13,19,97,19
+429,"2017-04-02 13:10:00",Docklands,R2,2,Geelong,17,10,112,"North Melbourne",17,9,111,1
+430,"2017-04-02 15:20:00",M.C.G.,R2,2,Melbourne,13,8,86,Carlton,9,10,64,22
+431,"2017-04-02 16:10:00","Adelaide Oval",R2,2,"Port Adelaide",22,13,145,Fremantle,8,8,56,89
+432,"2017-04-07 19:50:00",S.C.G.,R3,3,Sydney,11,13,79,Collingwood,11,14,80,-1
+433,"2017-04-08 13:45:00","Bellerive Oval",R3,3,"North Melbourne",10,7,67,GWS,15,19,109,-42
+434,"2017-04-08 14:10:00",M.C.G.,R3,3,Richmond,11,10,76,"West Coast",8,17,65,11
+435,"2017-04-08 16:35:00",Docklands,R3,3,Geelong,20,6,126,Melbourne,13,19,97,29
+436,"2017-04-08 17:40:00","Adelaide Oval",R3,3,"Port Adelaide",12,11,83,Adelaide,15,10,100,-17
+437,"2017-04-08 19:10:00",Subiaco,R3,3,Fremantle,13,11,89,Footscray,10,13,73,16
+438,"2017-04-09 13:10:00",Docklands,R3,3,"St Kilda",14,23,107,"Brisbane Lions",11,10,76,31
+439,"2017-04-09 15:20:00",M.C.G.,R3,3,Carlton,7,15,57,Essendon,6,6,42,15
+440,"2017-04-09 16:40:00",Carrara,R3,3,"Gold Coast",21,13,139,Hawthorn,7,11,53,86
+441,"2017-04-13 18:10:00",Subiaco,R4,4,"West Coast",13,13,91,Sydney,10,5,65,26
+442,"2017-04-14 16:20:00",Docklands,R4,4,"North Melbourne",12,14,86,Footscray,12,17,89,-3
+443,"2017-04-15 13:45:00",M.C.G.,R4,4,Melbourne,15,14,104,Fremantle,16,10,106,-2
+444,"2017-04-15 16:35:00","Manuka Oval",R4,4,GWS,16,16,112,"Port Adelaide",11,15,81,31
+445,"2017-04-15 19:10:00",Docklands,R4,4,Carlton,12,10,82,"Gold Coast",17,6,108,-26
+446,"2017-04-15 19:25:00","Adelaide Oval",R4,4,Adelaide,24,9,153,Essendon,13,10,88,65
+447,"2017-04-16 15:20:00",Docklands,R4,4,Collingwood,7,13,55,"St Kilda",9,15,69,-14
+448,"2017-04-16 16:40:00",Gabba,R4,4,"Brisbane Lions",10,7,67,Richmond,17,17,119,-52
+449,"2017-04-17 15:20:00",M.C.G.,R4,4,Hawthorn,6,12,48,Geelong,20,14,134,-86
+450,"2017-04-21 19:20:00","Adelaide Oval",R5,5,"Port Adelaide",20,17,137,Carlton,6,11,47,90
+451,"2017-04-22 13:45:00",Docklands,R5,5,Footscray,17,20,122,"Brisbane Lions",14,6,90,32
+452,"2017-04-22 16:35:00",Carrara,R5,5,"Gold Coast",13,8,86,Adelaide,23,15,153,-67
+453,"2017-04-22 17:40:00",S.C.G.,R5,5,Sydney,9,9,63,GWS,15,15,105,-42
+454,"2017-04-22 19:25:00",Subiaco,R5,5,Fremantle,9,13,67,"North Melbourne",9,8,62,5
+455,"2017-04-23 15:20:00",Docklands,R5,5,"St Kilda",13,10,88,Geelong,19,12,126,-38
+456,"2017-04-23 16:40:00",M.C.G.,R5,5,Hawthorn,19,11,125,"West Coast",11,9,75,50
+457,"2017-04-24 19:25:00",M.C.G.,R5,5,Richmond,12,16,88,Melbourne,11,9,75,13
+458,"2017-04-25 15:20:00",M.C.G.,R5,5,Essendon,15,10,100,Collingwood,11,16,82,18
+459,"2017-04-28 19:50:00","Manuka Oval",R6,6,GWS,11,9,75,Footscray,9,19,73,2
+460,"2017-04-29 13:45:00","York Park",R6,6,Hawthorn,8,7,55,"St Kilda",19,16,130,-75
+461,"2017-04-29 14:10:00",M.C.G.,R6,6,Carlton,15,7,97,Sydney,11,12,78,19
+462,"2017-04-29 16:35:00",Gabba,R6,6,"Brisbane Lions",10,7,67,"Port Adelaide",22,18,150,-83
+463,"2017-04-29 18:10:00",Docklands,R6,6,"North Melbourne",16,11,107,"Gold Coast",14,10,94,13
+464,"2017-04-29 19:25:00",Subiaco,R6,6,"West Coast",16,7,103,Fremantle,9,8,62,41
+465,"2017-04-30 13:10:00",Docklands,R6,6,Essendon,10,14,74,Melbourne,17,10,112,-38
+466,"2017-04-30 15:20:00",M.C.G.,R6,6,Geelong,11,12,78,Collingwood,15,17,107,-29
+467,"2017-04-30 16:10:00","Adelaide Oval",R6,6,Adelaide,21,14,140,Richmond,10,4,64,76
+468,"2017-05-05 19:50:00",Docklands,R7,7,"St Kilda",16,12,108,GWS,12,13,85,23
+469,"2017-05-06 13:45:00","Bellerive Oval",R7,7,"North Melbourne",22,13,145,Adelaide,13,8,86,59
+470,"2017-05-06 14:10:00",M.C.G.,R7,7,Collingwood,8,8,56,Carlton,12,7,79,-23
+471,"2017-05-06 16:05:00","Adelaide Oval",R7,7,"Port Adelaide",12,15,87,"West Coast",15,7,97,-10
+472,"2017-05-06 19:25:00",Docklands,R7,7,Footscray,11,14,80,Richmond,11,9,75,5
+473,"2017-05-06 19:25:00",Carrara,R7,7,"Gold Coast",18,16,124,Geelong,15,9,99,25
+474,"2017-05-07 13:10:00",S.C.G.,R7,7,Sydney,20,15,135,"Brisbane Lions",12,9,81,54
+475,"2017-05-07 14:40:00",M.C.G.,R7,7,Melbourne,14,7,91,Hawthorn,14,10,94,-3
+476,"2017-05-07 15:20:00",Subiaco,R7,7,Fremantle,17,14,116,Essendon,11,13,79,37
+477,"2017-05-12 18:10:00",Subiaco,R8,8,"West Coast",9,15,69,Footscray,8,13,61,8
+478,"2017-05-13 13:45:00","York Park",R8,8,Hawthorn,17,11,113,"Brisbane Lions",11,9,75,38
+479,"2017-05-13 14:10:00",Docklands,R8,8,"St Kilda",12,13,85,Carlton,10,6,66,19
+480,"2017-05-13 16:35:00","Sydney Showground",R8,8,GWS,15,12,102,Collingwood,15,9,99,3
+481,"2017-05-13 19:10:00",M.C.G.,R8,8,Essendon,17,8,110,Geelong,13,15,93,17
+482,"2017-05-13 19:25:00","Adelaide Oval",R8,8,Adelaide,9,12,66,Melbourne,17,5,107,-41
+483,"2017-05-14 13:10:00","Jiangwan Stadium",R8,8,"Gold Coast",4,14,38,"Port Adelaide",16,14,110,-72
+484,"2017-05-14 13:15:00",M.C.G.,R8,8,Richmond,10,10,70,Fremantle,10,12,72,-2
+485,"2017-05-14 16:40:00",Docklands,R8,8,"North Melbourne",11,12,78,Sydney,18,12,120,-42
+486,"2017-05-19 19:50:00","Kardinia Park",R9,9,Geelong,16,8,104,Footscray,12,9,81,23
+487,"2017-05-20 13:45:00",Docklands,R9,9,"St Kilda",10,8,68,Sydney,18,10,118,-50
+488,"2017-05-20 16:35:00","Sydney Showground",R9,9,GWS,11,12,78,Richmond,10,15,75,3
+489,"2017-05-20 19:25:00",Gabba,R9,9,"Brisbane Lions",7,18,60,Adelaide,21,14,140,-80
+490,"2017-05-20 19:25:00",M.C.G.,R9,9,Collingwood,13,12,90,Hawthorn,11,6,72,18
+491,"2017-05-21 13:10:00",Docklands,R9,9,Essendon,19,11,125,"West Coast",8,16,64,61
+492,"2017-05-21 14:40:00",M.C.G.,R9,9,Melbourne,13,12,90,"North Melbourne",15,14,104,-14
+493,"2017-05-21 15:20:00",Subiaco,R9,9,Fremantle,13,8,86,Carlton,7,9,51,35
+494,"2017-05-25 19:20:00","Kardinia Park",R10,10,Geelong,11,15,81,"Port Adelaide",11,13,79,2
+495,"2017-05-26 19:50:00",S.C.G.,R10,10,Sydney,11,9,75,Hawthorn,12,9,81,-6
+496,"2017-05-27 13:45:00",Docklands,R10,10,Footscray,13,12,90,"St Kilda",7,8,50,40
+497,"2017-05-27 16:05:00","Traeger Park",R10,10,Melbourne,18,14,122,"Gold Coast",13,9,87,35
+498,"2017-05-27 19:10:00",M.C.G.,R10,10,Richmond,11,15,81,Essendon,10,6,66,15
+499,"2017-05-27 19:25:00","Adelaide Oval",R10,10,Adelaide,20,23,143,Fremantle,6,7,43,100
+500,"2017-05-28 13:10:00",M.C.G.,R10,10,Collingwood,18,21,129,"Brisbane Lions",13,6,84,45
+501,"2017-05-28 14:40:00",Docklands,R10,10,Carlton,15,6,96,"North Melbourne",17,11,113,-17
+502,"2017-05-28 15:20:00",Subiaco,R10,10,"West Coast",14,6,90,GWS,14,14,98,-8
+503,"2017-06-01 19:20:00","Adelaide Oval",R11,11,"Port Adelaide",13,20,98,Hawthorn,7,5,47,51
+504,"2017-06-02 19:50:00","Kardinia Park",R11,11,Geelong,13,18,96,Adelaide,10,14,74,22
+505,"2017-06-03 13:45:00",Carrara,R11,11,"Gold Coast",11,14,80,"West Coast",11,11,77,3
+506,"2017-06-03 16:35:00","Sydney Showground",R11,11,GWS,18,9,117,Essendon,15,11,101,16
+507,"2017-06-03 19:25:00",Docklands,R11,11,"North Melbourne",9,12,66,Richmond,14,17,101,-35
+508,"2017-06-04 14:40:00",Subiaco,R11,11,Fremantle,12,13,85,Collingwood,15,15,105,-20
+509,"2017-06-08 19:20:00",S.C.G.,R12,12,Sydney,12,16,88,Footscray,6,6,42,46
+510,"2017-06-09 19:20:00","Adelaide Oval",R12,12,Adelaide,16,15,111,"St Kilda",7,12,54,57
+511,"2017-06-10 13:45:00",M.C.G.,R12,12,Hawthorn,12,7,79,"Gold Coast",13,17,95,-16
+512,"2017-06-10 16:35:00",Gabba,R12,12,"Brisbane Lions",18,13,121,Fremantle,9,10,64,57
+513,"2017-06-10 19:25:00",Docklands,R12,12,Essendon,19,17,131,"Port Adelaide",8,13,61,70
+514,"2017-06-11 15:20:00",Docklands,R12,12,Carlton,10,11,71,GWS,9,16,70,1
+515,"2017-06-12 15:20:00",M.C.G.,R12,12,Melbourne,15,14,104,Collingwood,15,10,100,4
+516,"2017-06-15 18:10:00",Subiaco,R13,13,"West Coast",11,17,83,Geelong,10,10,70,13
+517,"2017-06-16 19:50:00",Docklands,R13,13,"North Melbourne",10,12,72,"St Kilda",12,17,89,-17
+518,"2017-06-17 13:45:00",M.C.G.,R13,13,Richmond,10,11,71,Sydney,12,8,80,-9
+519,"2017-06-17 16:05:00","Adelaide Oval",R13,13,"Port Adelaide",18,13,121,"Brisbane Lions",12,9,81,40
+520,"2017-06-17 19:25:00",Carrara,R13,13,"Gold Coast",11,7,73,Carlton,12,11,83,-10
+521,"2017-06-18 15:20:00",Docklands,R13,13,Footscray,8,8,56,Melbourne,17,11,113,-57
+522,"2017-06-22 19:20:00","Adelaide Oval",R14,14,Adelaide,12,10,82,Hawthorn,14,12,96,-14
+523,"2017-06-23 19:50:00",S.C.G.,R14,14,Sydney,11,20,86,Essendon,12,13,85,1
+524,"2017-06-24 13:45:00",M.C.G.,R14,14,Collingwood,9,8,62,"Port Adelaide",13,15,93,-31
+525,"2017-06-24 16:35:00",Gabba,R14,14,"Brisbane Lions",12,14,86,GWS,22,14,146,-60
+526,"2017-06-24 17:40:00",Docklands,R14,14,Footscray,15,17,107,"North Melbourne",16,10,106,1
+527,"2017-06-24 19:25:00",Subiaco,R14,14,"West Coast",14,12,96,Melbourne,15,9,99,-3
+528,"2017-06-25 13:10:00","Kardinia Park",R14,14,Geelong,10,14,74,Fremantle,11,6,72,2
+529,"2017-06-25 15:20:00",M.C.G.,R14,14,Richmond,11,18,84,Carlton,8,10,58,26
+530,"2017-06-25 16:40:00",Docklands,R14,14,"St Kilda",14,19,103,"Gold Coast",10,12,72,31
+531,"2017-06-30 19:50:00",M.C.G.,R15,15,Melbourne,7,8,50,Sydney,11,19,85,-35
+532,"2017-07-01 13:45:00",Docklands,R15,15,Footscray,11,14,80,"West Coast",12,15,87,-7
+533,"2017-07-01 14:10:00",M.C.G.,R15,15,Carlton,12,5,77,Adelaide,13,11,89,-12
+534,"2017-07-01 16:35:00",Carrara,R15,15,"Gold Coast",18,10,118,"North Melbourne",14,15,99,19
+535,"2017-07-01 19:10:00","Sydney Showground",R15,15,GWS,10,8,68,Geelong,10,8,68,0
+536,"2017-07-01 19:25:00","Adelaide Oval",R15,15,"Port Adelaide",8,15,63,Richmond,11,10,76,-13
+537,"2017-07-02 13:10:00",Docklands,R15,15,Essendon,11,16,82,"Brisbane Lions",13,12,90,-8
+538,"2017-07-02 14:40:00",M.C.G.,R15,15,Hawthorn,18,10,118,Collingwood,14,10,94,24
+539,"2017-07-02 15:20:00",Subiaco,R15,15,Fremantle,12,8,80,"St Kilda",12,17,89,-9
+540,"2017-07-07 19:20:00","Adelaide Oval",R16,16,Adelaide,16,8,104,Footscray,5,15,45,59
+541,"2017-07-08 13:45:00","York Park",R16,16,Hawthorn,14,13,97,GWS,15,7,97,0
+542,"2017-07-08 14:10:00",M.C.G.,R16,16,Collingwood,12,8,80,Essendon,18,9,117,-37
+543,"2017-07-08 16:35:00",S.C.G.,R16,16,Sydney,17,16,118,"Gold Coast",7,9,51,67
+544,"2017-07-08 19:25:00",Gabba,R16,16,"Brisbane Lions",11,12,78,Geelong,25,13,163,-85
+545,"2017-07-08 19:25:00",Docklands,R16,16,"St Kilda",21,12,138,Richmond,10,11,71,67
+546,"2017-07-09 13:10:00",Docklands,R16,16,"North Melbourne",12,10,82,Fremantle,13,8,86,-4
+547,"2017-07-09 14:40:00",M.C.G.,R16,16,Carlton,12,10,82,Melbourne,14,6,90,-8
+548,"2017-07-09 15:20:00",Subiaco,R16,16,"West Coast",13,10,88,"Port Adelaide",18,12,120,-32
+549,"2017-07-14 19:50:00",Docklands,R17,17,"St Kilda",7,15,57,Essendon,17,16,118,-61
+550,"2017-07-15 13:40:00",M.C.G.,R17,17,Geelong,13,10,88,Hawthorn,12,13,85,3
+551,"2017-07-15 13:45:00","Adelaide Oval",R17,17,"Port Adelaide",19,13,127,"North Melbourne",8,9,57,70
+552,"2017-07-15 16:35:00",Carrara,R17,17,"Gold Coast",13,10,88,Collingwood,15,13,103,-15
+553,"2017-07-15 19:10:00","Sydney Showground",R17,17,GWS,12,11,83,Sydney,14,12,96,-13
+554,"2017-07-15 19:25:00","Marrara Oval",R17,17,Melbourne,10,10,70,Adelaide,17,14,116,-46
+555,"2017-07-16 13:10:00",Docklands,R17,17,Richmond,16,16,112,"Brisbane Lions",12,9,81,31
+556,"2017-07-16 14:40:00",M.C.G.,R17,17,Carlton,9,8,62,Footscray,12,10,82,-20
+557,"2017-07-16 15:20:00",Subiaco,R17,17,Fremantle,5,14,44,"West Coast",11,8,74,-30
+558,"2017-07-21 19:20:00","Adelaide Oval",R18,18,Adelaide,13,13,91,Geelong,10,10,70,21
+559,"2017-07-22 13:45:00",Docklands,R18,18,Essendon,20,12,132,"North Melbourne",16,9,105,27
+560,"2017-07-22 14:10:00",M.C.G.,R18,18,Melbourne,13,10,88,"Port Adelaide",9,11,65,23
+561,"2017-07-22 16:35:00","Cazaly's Stadium",R18,18,Footscray,16,14,110,"Gold Coast",8,8,56,54
+562,"2017-07-22 17:40:00",S.C.G.,R18,18,Sydney,14,17,101,"St Kilda",9,5,59,42
+563,"2017-07-22 19:25:00",Subiaco,R18,18,Fremantle,7,6,48,Hawthorn,15,10,100,-52
+564,"2017-07-23 13:10:00",M.C.G.,R18,18,Richmond,9,10,64,GWS,6,9,45,19
+565,"2017-07-23 15:20:00",Docklands,R18,18,Collingwood,13,15,93,"West Coast",13,7,85,8
+566,"2017-07-23 16:40:00",Gabba,R18,18,"Brisbane Lions",17,10,112,Carlton,11,16,82,30
+567,"2017-07-28 19:50:00",M.C.G.,R19,19,Hawthorn,10,12,72,Sydney,9,12,66,6
+568,"2017-07-29 13:45:00","Bellerive Oval",R19,19,"North Melbourne",11,10,76,Melbourne,10,12,72,4
+569,"2017-07-29 14:10:00","Sydney Showground",R19,19,GWS,13,20,98,Fremantle,13,8,86,12
+570,"2017-07-29 16:05:00","Adelaide Oval",R19,19,"Port Adelaide",9,9,63,"St Kilda",8,13,61,2
+571,"2017-07-29 19:25:00",Docklands,R19,19,Carlton,8,10,58,Geelong,18,15,123,-65
+572,"2017-07-29 19:25:00",Carrara,R19,19,"Gold Coast",10,5,65,Richmond,14,14,98,-33
+573,"2017-07-30 13:10:00",Docklands,R19,19,Footscray,19,13,127,Essendon,13,19,97,30
+574,"2017-07-30 14:40:00",M.C.G.,R19,19,Collingwood,15,13,103,Adelaide,16,7,103,0
+575,"2017-07-30 15:20:00",Subiaco,R19,19,"West Coast",17,11,113,"Brisbane Lions",6,9,45,68
+576,"2017-08-04 19:50:00","Kardinia Park",R20,20,Geelong,8,13,61,Sydney,16,11,107,-46
+577,"2017-08-05 13:45:00","Manuka Oval",R20,20,GWS,14,13,97,Melbourne,10,2,62,35
+578,"2017-08-05 14:10:00",M.C.G.,R20,20,Essendon,11,18,84,Carlton,11,10,76,8
+579,"2017-08-05 16:35:00",Gabba,R20,20,"Brisbane Lions",13,11,89,Footscray,14,19,103,-14
+580,"2017-08-05 17:40:00",Docklands,R20,20,"North Melbourne",7,15,57,Collingwood,16,15,111,-54
+581,"2017-08-05 19:25:00",Subiaco,R20,20,Fremantle,12,18,90,"Gold Coast",10,7,67,23
+582,"2017-08-06 13:10:00",Docklands,R20,20,"St Kilda",15,13,103,"West Coast",14,11,95,8
+583,"2017-08-06 15:20:00",M.C.G.,R20,20,Richmond,13,15,93,Hawthorn,9,10,64,29
+584,"2017-08-06 16:10:00","Adelaide Oval",R20,20,Adelaide,18,22,130,"Port Adelaide",7,4,46,84
+585,"2017-08-11 19:50:00",Docklands,R21,21,Footscray,7,15,57,GWS,16,9,105,-48
+586,"2017-08-12 13:45:00",S.C.G.,R21,21,Sydney,22,11,143,Fremantle,5,9,39,104
+587,"2017-08-12 14:10:00","Kardinia Park",R21,21,Geelong,11,14,80,Richmond,9,12,66,14
+588,"2017-08-12 16:35:00",Gabba,R21,21,"Brisbane Lions",22,10,142,"Gold Coast",12,12,84,58
+589,"2017-08-12 17:40:00",Docklands,R21,21,Essendon,12,8,80,Adelaide,18,15,123,-43
+590,"2017-08-12 19:25:00",Subiaco,R21,21,"West Coast",15,10,100,Carlton,12,11,83,17
+591,"2017-08-13 13:10:00",M.C.G.,R21,21,Melbourne,14,12,96,"St Kilda",10,12,72,24
+592,"2017-08-13 15:20:00","York Park",R21,21,Hawthorn,18,8,116,"North Melbourne",14,5,89,27
+593,"2017-08-13 16:10:00","Adelaide Oval",R21,21,"Port Adelaide",14,14,98,Collingwood,10,11,71,27
+594,"2017-08-18 19:20:00","Adelaide Oval",R22,22,Adelaide,11,14,80,Sydney,13,5,83,-3
+595,"2017-08-19 13:45:00","Eureka Stadium",R22,22,Footscray,11,13,79,"Port Adelaide",14,12,96,-17
+596,"2017-08-19 14:10:00",M.C.G.,R22,22,Collingwood,9,5,59,Geelong,10,10,70,-11
+597,"2017-08-19 16:35:00","Sydney Showground",R22,22,GWS,12,9,81,"West Coast",9,6,60,21
+598,"2017-08-19 19:25:00",Docklands,R22,22,Carlton,12,5,77,Hawthorn,10,10,70,7
+599,"2017-08-19 19:25:00",Carrara,R22,22,"Gold Coast",9,3,57,Essendon,12,18,90,-33
+600,"2017-08-20 13:10:00",M.C.G.,R22,22,Melbourne,16,8,104,"Brisbane Lions",14,7,91,13
+601,"2017-08-20 14:40:00",Docklands,R22,22,"St Kilda",18,19,127,"North Melbourne",12,6,78,49
+602,"2017-08-20 15:20:00",Subiaco,R22,22,Fremantle,7,9,51,Richmond,25,5,155,-104
+603,"2017-08-25 19:50:00",Docklands,R23,23,Hawthorn,15,9,99,Footscray,13,12,90,9
+604,"2017-08-26 13:45:00",M.C.G.,R23,23,Collingwood,14,15,99,Melbourne,12,11,83,16
+605,"2017-08-26 14:10:00",Gabba,R23,23,"Brisbane Lions",11,13,79,"North Melbourne",19,16,130,-51
+606,"2017-08-26 16:35:00",S.C.G.,R23,23,Sydney,21,12,138,Carlton,8,9,57,81
+607,"2017-08-26 19:10:00","Kardinia Park",R23,23,Geelong,15,13,103,GWS,8,11,59,44
+608,"2017-08-26 19:25:00","Adelaide Oval",R23,23,"Port Adelaide",20,15,135,"Gold Coast",3,2,20,115
+609,"2017-08-27 13:10:00",Docklands,R23,23,Essendon,16,11,107,Fremantle,14,8,92,15
+610,"2017-08-27 14:40:00",M.C.G.,R23,23,Richmond,19,8,122,"St Kilda",12,9,81,41
+611,"2017-08-27 15:20:00",Subiaco,R23,23,"West Coast",15,10,100,Adelaide,10,11,71,29
+612,"2017-09-07 19:20:00","Adelaide Oval",QF,24,Adelaide,12,12,84,GWS,6,12,48,36
+613,"2017-09-08 19:50:00",M.C.G.,QF,24,Richmond,13,13,91,Geelong,5,10,40,51
+614,"2017-09-09 16:20:00",S.C.G.,EF,24,Sydney,19,7,121,Essendon,8,8,56,65
+615,"2017-09-09 19:20:00","Adelaide Oval",EF,24,"West Coast",12,6,78,"Port Adelaide",10,16,76,2
+616,"2017-09-15 19:50:00",M.C.G.,SF,25,Geelong,15,8,98,Sydney,5,9,39,59
+617,"2017-09-16 19:25:00","Sydney Showground",SF,25,GWS,19,11,125,"West Coast",9,4,58,67
+618,"2017-09-22 19:20:00","Adelaide Oval",PF,26,Adelaide,21,10,136,Geelong,10,15,75,61
+619,"2017-09-23 16:45:00",M.C.G.,PF,26,Richmond,15,13,103,GWS,9,13,67,36
+620,"2017-09-30 14:30:00",M.C.G.,GF,27,Richmond,16,12,108,Adelaide,8,12,60,48
+621,"2018-03-22 19:25:00",M.C.G.,R1,1,Richmond,17,19,121,Carlton,15,5,95,26
+622,"2018-03-23 19:50:00",Docklands,R1,1,Essendon,14,15,99,Adelaide,12,15,87,12
+623,"2018-03-24 15:35:00",Docklands,R1,1,"St Kilda",16,11,107,"Brisbane Lions",12,10,82,25
+624,"2018-03-24 16:05:00","Adelaide Oval",R1,1,"Port Adelaide",16,14,110,Fremantle,9,6,60,50
+625,"2018-03-24 18:25:00",M.C.G.,R1,1,Hawthorn,15,11,101,Collingwood,9,13,67,34
+626,"2018-03-24 19:25:00","Cazaly's Stadium",R1,1,"Gold Coast",7,13,55,"North Melbourne",5,9,39,16
+627,"2018-03-25 13:10:00","Manuka Oval",R1,1,GWS,20,13,133,Footscray,7,9,51,82
+628,"2018-03-25 15:20:00",M.C.G.,R1,1,Melbourne,13,16,94,Geelong,14,13,97,-3
+629,"2018-03-25 16:20:00","Perth Stadium",R1,1,"West Coast",13,8,86,Sydney,18,7,115,-29
+630,"2018-03-29 19:20:00","Adelaide Oval",R2,2,Adelaide,18,10,118,Richmond,12,10,82,36
+631,"2018-03-30 16:20:00",Docklands,R2,2,"North Melbourne",13,17,95,"St Kilda",5,13,43,52
+632,"2018-03-31 13:45:00",Docklands,R2,2,Carlton,9,13,67,"Gold Coast",15,11,101,-34
+633,"2018-03-31 16:35:00",M.C.G.,R2,2,Collingwood,12,7,79,GWS,15,5,95,-16
+634,"2018-03-31 17:10:00",Gabba,R2,2,"Brisbane Lions",10,14,74,Melbourne,14,16,100,-26
+635,"2018-03-31 18:25:00","Perth Stadium",R2,2,Fremantle,16,10,106,Essendon,14,6,90,16
+636,"2018-04-01 15:20:00",Docklands,R2,2,Footscray,9,16,70,"West Coast",18,13,121,-51
+637,"2018-04-01 16:40:00",S.C.G.,R2,2,Sydney,10,11,71,"Port Adelaide",14,10,94,-23
+638,"2018-04-02 15:20:00",M.C.G.,R2,2,Geelong,18,9,117,Hawthorn,17,16,118,-1
+639,"2018-04-06 19:50:00",M.C.G.,R3,3,Carlton,11,10,76,Collingwood,16,4,100,-24
+640,"2018-04-07 13:15:00","Adelaide Oval",R3,3,"Port Adelaide",14,13,97,"Brisbane Lions",14,8,92,5
+641,"2018-04-07 14:10:00",M.C.G.,R3,3,Melbourne,18,15,123,"North Melbourne",13,8,86,37
+642,"2018-04-07 14:35:00","Perth Stadium",R3,3,"Gold Coast",10,8,68,Fremantle,13,18,96,-28
+643,"2018-04-07 19:25:00",Docklands,R3,3,"St Kilda",7,13,55,Adelaide,15,14,104,-49
+644,"2018-04-07 19:25:00",S.C.G.,R3,3,Sydney,16,7,103,GWS,12,15,87,16
+645,"2018-04-08 13:10:00",M.C.G.,R3,3,Richmond,15,12,102,Hawthorn,13,11,89,13
+646,"2018-04-08 14:40:00",Docklands,R3,3,Footscray,14,20,104,Essendon,12,11,83,21
+647,"2018-04-08 15:20:00","Perth Stadium",R3,3,"West Coast",14,11,95,Geelong,11,14,80,15
+648,"2018-04-13 19:20:00","Adelaide Oval",R4,4,Adelaide,9,4,58,Collingwood,16,10,106,-48
+649,"2018-04-14 13:45:00","Manuka Oval",R4,4,GWS,11,16,82,Fremantle,7,9,51,31
+650,"2018-04-14 14:10:00",M.C.G.,R4,4,Richmond,16,14,110,"Brisbane Lions",2,5,17,93
+651,"2018-04-14 16:35:00",Docklands,R4,4,Footscray,11,13,79,Sydney,13,8,86,-7
+652,"2018-04-14 18:10:00","Bellerive Oval",R4,4,"North Melbourne",18,8,116,Carlton,4,6,30,86
+653,"2018-04-14 19:25:00","Perth Stadium",R4,4,"West Coast",21,13,139,"Gold Coast",9,5,59,80
+654,"2018-04-15 13:10:00",Docklands,R4,4,Essendon,16,10,106,"Port Adelaide",12,12,84,22
+655,"2018-04-15 15:20:00",M.C.G.,R4,4,Hawthorn,18,7,115,Melbourne,6,12,48,67
+656,"2018-04-15 16:40:00","Kardinia Park",R4,4,Geelong,15,13,103,"St Kilda",7,14,56,47
+657,"2018-04-20 19:50:00",S.C.G.,R5,5,Sydney,10,15,75,Adelaide,12,13,85,-10
+658,"2018-04-21 13:45:00",Docklands,R5,5,"St Kilda",10,13,73,GWS,9,19,73,0
+659,"2018-04-21 16:35:00",M.C.G.,R5,5,Carlton,10,9,69,"West Coast",10,19,79,-10
+660,"2018-04-21 18:15:00","Adelaide Oval",R5,5,"Port Adelaide",7,8,50,Geelong,12,12,84,-34
+661,"2018-04-21 19:10:00","Perth Stadium",R5,5,Fremantle,16,12,108,Footscray,8,6,54,54
+662,"2018-04-22 15:20:00",Docklands,R5,5,"North Melbourne",14,14,98,Hawthorn,11,4,70,28
+663,"2018-04-22 16:45:00",Gabba,R5,5,"Brisbane Lions",10,11,71,"Gold Coast",11,10,76,-5
+664,"2018-04-24 19:25:00",M.C.G.,R5,5,Melbourne,8,8,56,Richmond,15,12,102,-46
+665,"2018-04-25 15:20:00",M.C.G.,R5,5,Collingwood,14,17,101,Essendon,7,10,52,49
+666,"2018-04-27 19:50:00",Docklands,R6,6,Footscray,11,14,80,Carlton,8,11,59,21
+667,"2018-04-28 13:45:00","Kardinia Park",R6,6,Geelong,10,9,69,Sydney,12,14,86,-17
+668,"2018-04-28 14:10:00",Docklands,R6,6,"North Melbourne",10,9,69,"Port Adelaide",15,12,102,-33
+669,"2018-04-28 16:35:00","Sydney Showground",R6,6,GWS,10,17,77,"Brisbane Lions",5,13,43,34
+670,"2018-04-28 19:10:00","York Park",R6,6,Hawthorn,13,11,89,"St Kilda",7,12,54,35
+671,"2018-04-28 19:25:00","Adelaide Oval",R6,6,Adelaide,16,14,110,"Gold Coast",9,8,62,48
+672,"2018-04-29 13:10:00",Docklands,R6,6,Essendon,10,12,72,Melbourne,16,12,108,-36
+673,"2018-04-29 14:40:00",M.C.G.,R6,6,Collingwood,10,10,70,Richmond,16,17,113,-43
+674,"2018-04-29 15:20:00","Perth Stadium",R6,6,Fremantle,12,9,81,"West Coast",13,11,89,-8
+675,"2018-05-04 19:50:00","Kardinia Park",R7,7,Geelong,14,9,93,GWS,4,8,32,61
+676,"2018-05-05 13:45:00","Eureka Stadium",R7,7,Footscray,11,15,81,"Gold Coast",10,12,72,9
+677,"2018-05-05 14:10:00",M.C.G.,R7,7,Essendon,10,7,67,Hawthorn,13,12,90,-23
+678,"2018-05-05 14:35:00","Perth Stadium",R7,7,"West Coast",16,6,102,"Port Adelaide",9,6,60,42
+679,"2018-05-05 19:10:00",S.C.G.,R7,7,Sydney,9,12,66,"North Melbourne",9,14,68,-2
+680,"2018-05-05 19:25:00","Adelaide Oval",R7,7,Adelaide,19,11,125,Carlton,10,10,70,55
+681,"2018-05-06 13:10:00",M.C.G.,R7,7,Richmond,15,20,110,Fremantle,4,9,33,77
+682,"2018-05-06 15:20:00",Docklands,R7,7,"St Kilda",9,13,67,Melbourne,16,10,106,-39
+683,"2018-05-06 16:40:00",Gabba,R7,7,"Brisbane Lions",18,6,114,Collingwood,19,7,121,-7
+684,"2018-05-11 19:50:00",M.C.G.,R8,8,Hawthorn,10,11,71,Sydney,12,7,79,-8
+685,"2018-05-12 13:45:00","Sydney Showground",R8,8,GWS,8,13,61,"West Coast",12,14,86,-25
+686,"2018-05-12 14:10:00",M.C.G.,R8,8,Carlton,14,7,91,Essendon,10,18,78,13
+687,"2018-05-12 16:35:00",Gabba,R8,8,"Gold Coast",11,11,77,Melbourne,21,20,146,-69
+688,"2018-05-12 16:40:00","Adelaide Oval",R8,8,"Port Adelaide",14,11,95,Adelaide,14,6,90,5
+689,"2018-05-12 18:10:00",Docklands,R8,8,Footscray,16,11,107,"Brisbane Lions",14,9,93,14
+690,"2018-05-12 19:25:00","Perth Stadium",R8,8,Fremantle,13,11,89,"St Kilda",8,11,59,30
+691,"2018-05-13 13:10:00",Docklands,R8,8,"North Melbourne",11,6,72,Richmond,12,10,82,-10
+692,"2018-05-13 15:20:00",M.C.G.,R8,8,Collingwood,5,15,45,Geelong,9,12,66,-21
+693,"2018-05-18 19:20:00","Adelaide Oval",R9,9,Adelaide,9,9,63,Footscray,2,14,26,37
+694,"2018-05-19 13:15:00","Jiangwan Stadium",R9,9,"Gold Coast",6,6,42,"Port Adelaide",11,16,82,-40
+695,"2018-05-19 13:45:00","Bellerive Oval",R9,9,"North Melbourne",17,10,112,GWS,9,15,69,43
+696,"2018-05-19 16:35:00",M.C.G.,R9,9,Essendon,12,12,84,Geelong,7,8,50,34
+697,"2018-05-19 19:25:00",Docklands,R9,9,"St Kilda",10,12,72,Collingwood,15,10,100,-28
+698,"2018-05-19 19:25:00",S.C.G.,R9,9,Sydney,17,9,111,Fremantle,7,10,52,59
+699,"2018-05-20 13:10:00",M.C.G.,R9,9,Carlton,7,8,50,Melbourne,25,9,159,-109
+700,"2018-05-20 14:40:00",Gabba,R9,9,"Brisbane Lions",20,9,129,Hawthorn,11,7,73,56
+701,"2018-05-20 15:20:00","Perth Stadium",R9,9,"West Coast",20,10,130,Richmond,12,11,83,47
+702,"2018-05-25 19:50:00",Docklands,R10,10,Collingwood,13,12,90,Footscray,8,7,55,35
+703,"2018-05-26 13:45:00",M.C.G.,R10,10,Richmond,15,15,105,"St Kilda",12,5,77,28
+704,"2018-05-26 16:35:00",Gabba,R10,10,"Brisbane Lions",6,13,49,Sydney,10,7,67,-18
+705,"2018-05-26 19:25:00","Kardinia Park",R10,10,Geelong,11,7,73,Carlton,5,15,45,28
+706,"2018-05-26 19:25:00","Sydney Showground",R10,10,GWS,8,12,60,Essendon,14,11,95,-35
+707,"2018-05-27 13:10:00",Docklands,R10,10,Hawthorn,9,6,60,"West Coast",11,9,75,-15
+708,"2018-05-27 14:40:00","Traeger Park",R10,10,Melbourne,23,8,146,Adelaide,8,7,55,91
+709,"2018-05-27 14:50:00","Perth Stadium",R10,10,Fremantle,8,10,58,"North Melbourne",12,14,86,-28
+710,"2018-06-01 19:50:00",S.C.G.,R11,11,Sydney,13,13,91,Carlton,9,7,61,30
+711,"2018-06-02 13:45:00",Docklands,R11,11,Footscray,7,9,51,Melbourne,15,10,100,-49
+712,"2018-06-02 14:10:00","York Park",R11,11,Hawthorn,9,10,64,"Port Adelaide",9,7,61,3
+713,"2018-06-02 16:35:00",Carrara,R11,11,"Gold Coast",4,12,36,Geelong,17,19,121,-85
+714,"2018-06-02 18:10:00",M.C.G.,R11,11,Essendon,6,7,43,Richmond,17,12,114,-71
+715,"2018-06-02 19:25:00","Perth Stadium",R11,11,"West Coast",16,5,101,"St Kilda",14,4,88,13
+716,"2018-06-03 13:10:00",Docklands,R11,11,"North Melbourne",21,15,141,"Brisbane Lions",12,15,87,54
+717,"2018-06-03 15:20:00",M.C.G.,R11,11,Collingwood,21,12,138,Fremantle,12,5,77,61
+718,"2018-06-03 16:10:00","Adelaide Oval",R11,11,Adelaide,11,15,81,GWS,14,13,97,-16
+719,"2018-06-08 19:20:00","Adelaide Oval",R12,12,"Port Adelaide",10,12,72,Richmond,8,10,58,14
+720,"2018-06-09 13:45:00","Kardinia Park",R12,12,Geelong,14,12,96,"North Melbourne",8,11,59,37
+721,"2018-06-09 16:35:00","Sydney Showground",R12,12,GWS,20,14,134,"Gold Coast",4,2,26,108
+722,"2018-06-09 19:25:00",Docklands,R12,12,"St Kilda",7,13,55,Sydney,19,12,126,-71
+723,"2018-06-10 13:10:00",Gabba,R12,12,"Brisbane Lions",8,14,62,Essendon,12,12,84,-22
+724,"2018-06-10 14:40:00","Perth Stadium",R12,12,Fremantle,10,11,71,Adelaide,9,14,68,3
+725,"2018-06-11 15:20:00",M.C.G.,R12,12,Melbourne,14,7,91,Collingwood,20,13,133,-42
+726,"2018-06-14 19:20:00","Adelaide Oval",R13,13,"Port Adelaide",20,12,132,Footscray,11,9,75,57
+727,"2018-06-15 19:50:00",S.C.G.,R13,13,Sydney,10,12,72,"West Coast",7,15,57,15
+728,"2018-06-16 13:45:00",Docklands,R13,13,Carlton,6,10,46,Fremantle,15,13,103,-57
+729,"2018-06-16 16:35:00",Carrara,R13,13,"Gold Coast",11,12,78,"St Kilda",11,14,80,-2
+730,"2018-06-16 19:25:00",M.C.G.,R13,13,Hawthorn,12,16,88,Adelaide,4,8,32,56
+731,"2018-06-17 15:20:00",M.C.G.,R13,13,Geelong,9,11,65,Richmond,12,11,83,-18
+732,"2018-06-21 18:10:00","Perth Stadium",R14,14,"West Coast",6,16,52,Essendon,12,8,80,-28
+733,"2018-06-22 19:20:00","Adelaide Oval",R14,14,"Port Adelaide",11,9,75,Melbourne,9,11,65,10
+734,"2018-06-23 13:45:00","York Park",R14,14,Hawthorn,13,18,96,"Gold Coast",5,13,43,53
+735,"2018-06-23 16:35:00",Gabba,R14,14,"Brisbane Lions",12,10,82,GWS,16,13,109,-27
+736,"2018-06-23 19:25:00",Docklands,R14,14,Footscray,11,9,75,"North Melbourne",12,5,77,-2
+737,"2018-06-24 15:20:00",M.C.G.,R14,14,Collingwood,11,13,79,Carlton,9,5,59,20
+738,"2018-06-28 19:20:00",Docklands,R15,15,Richmond,14,9,93,Sydney,11,1,67,26
+739,"2018-06-29 19:50:00",Docklands,R15,15,Footscray,16,7,103,Geelong,15,11,101,2
+740,"2018-06-30 13:45:00",M.C.G.,R15,15,Carlton,10,9,69,"Port Adelaide",13,12,90,-21
+741,"2018-06-30 16:05:00","Adelaide Oval",R15,15,Adelaide,12,16,88,"West Coast",12,6,78,10
+742,"2018-06-30 19:25:00",Carrara,R15,15,"Gold Coast",8,12,60,Collingwood,14,15,99,-39
+743,"2018-06-30 19:25:00","Sydney Showground",R15,15,GWS,13,17,95,Hawthorn,13,6,84,11
+744,"2018-07-01 13:10:00",M.C.G.,R15,15,Melbourne,18,9,117,"St Kilda",18,11,119,-2
+745,"2018-07-01 14:40:00",Docklands,R15,15,Essendon,19,11,125,"North Melbourne",16,12,108,17
+746,"2018-07-01 15:20:00","Perth Stadium",R15,15,Fremantle,9,10,64,"Brisbane Lions",18,11,119,-55
+747,"2018-07-05 19:20:00",S.C.G.,R16,16,Sydney,9,5,59,Geelong,8,23,71,-12
+748,"2018-07-06 19:50:00",M.C.G.,R16,16,Richmond,15,13,103,Adelaide,8,8,56,47
+749,"2018-07-07 13:45:00",Gabba,R16,16,"Brisbane Lions",18,12,120,Carlton,7,13,55,65
+750,"2018-07-07 16:05:00","Adelaide Oval",R16,16,"Port Adelaide",12,14,86,"St Kilda",7,8,50,36
+751,"2018-07-07 19:10:00",Docklands,R16,16,Footscray,9,5,59,Hawthorn,19,8,122,-63
+752,"2018-07-07 19:25:00","Marrara Oval",R16,16,Melbourne,13,24,102,Fremantle,7,6,48,54
+753,"2018-07-08 13:10:00",Docklands,R16,16,"North Melbourne",14,11,95,"Gold Coast",8,10,58,37
+754,"2018-07-08 14:40:00",M.C.G.,R16,16,Essendon,9,8,62,Collingwood,12,6,78,-16
+755,"2018-07-08 15:20:00","Perth Stadium",R16,16,"West Coast",13,8,86,GWS,10,15,75,11
+756,"2018-07-12 19:20:00","Adelaide Oval",R17,17,Adelaide,16,16,112,Geelong,14,13,97,15
+757,"2018-07-13 19:50:00",Docklands,R17,17,"St Kilda",16,20,116,Carlton,7,10,52,64
+758,"2018-07-14 13:45:00","York Park",R17,17,Hawthorn,9,11,65,"Brisbane Lions",15,8,98,-33
+759,"2018-07-14 16:35:00",M.C.G.,R17,17,Melbourne,18,11,119,Footscray,10,9,69,50
+760,"2018-07-14 19:25:00",Carrara,R17,17,"Gold Coast",6,15,51,Essendon,13,17,95,-44
+761,"2018-07-14 19:25:00","Sydney Showground",R17,17,GWS,11,13,79,Richmond,10,17,77,2
+762,"2018-07-15 13:10:00",M.C.G.,R17,17,Collingwood,9,13,67,"West Coast",15,12,102,-35
+763,"2018-07-15 14:40:00",Docklands,R17,17,"North Melbourne",15,8,98,Sydney,16,8,104,-6
+764,"2018-07-15 15:20:00","Perth Stadium",R17,17,Fremantle,8,11,59,"Port Adelaide",7,8,50,9
+765,"2018-07-20 19:50:00",Docklands,R18,18,"St Kilda",8,9,57,Richmond,16,15,111,-54
+766,"2018-07-21 13:45:00",M.C.G.,R18,18,Collingwood,20,10,130,"North Melbourne",9,10,64,66
+767,"2018-07-21 14:10:00",S.C.G.,R18,18,Sydney,8,16,64,"Gold Coast",12,16,88,-24
+768,"2018-07-21 16:35:00",Docklands,R18,18,Essendon,13,21,99,Fremantle,11,4,70,29
+769,"2018-07-21 19:25:00",Gabba,R18,18,"Brisbane Lions",13,10,88,Adelaide,13,15,93,-5
+770,"2018-07-21 19:25:00","Kardinia Park",R18,18,Geelong,16,4,100,Melbourne,14,14,98,2
+771,"2018-07-22 13:10:00",Docklands,R18,18,Carlton,7,10,52,Hawthorn,18,16,124,-72
+772,"2018-07-22 13:20:00","Perth Stadium",R18,18,"West Coast",14,16,100,Footscray,6,10,46,54
+773,"2018-07-22 16:10:00","Adelaide Oval",R18,18,"Port Adelaide",8,10,58,GWS,11,14,80,-22
+774,"2018-07-27 19:50:00",Docklands,R19,19,Essendon,15,19,109,Sydney,10,6,66,43
+775,"2018-07-28 13:45:00",M.C.G.,R19,19,Richmond,16,9,105,Collingwood,12,5,77,28
+776,"2018-07-28 14:10:00","Kardinia Park",R19,19,Geelong,18,12,120,"Brisbane Lions",11,12,78,42
+777,"2018-07-28 16:35:00","Sydney Showground",R19,19,GWS,13,8,86,"St Kilda",8,13,61,25
+778,"2018-07-28 19:10:00",Carrara,R19,19,"Gold Coast",5,14,44,Carlton,12,7,79,-35
+779,"2018-07-28 19:25:00","Adelaide Oval",R19,19,Adelaide,10,17,77,Melbourne,13,12,90,-13
+780,"2018-07-29 13:10:00","Bellerive Oval",R19,19,"North Melbourne",12,9,81,"West Coast",6,5,41,40
+781,"2018-07-29 14:40:00","Eureka Stadium",R19,19,Footscray,5,4,34,"Port Adelaide",11,12,78,-44
+782,"2018-07-29 15:20:00","Perth Stadium",R19,19,Fremantle,7,11,53,Hawthorn,17,10,112,-59
+783,"2018-08-03 19:50:00",M.C.G.,R20,20,Richmond,12,13,85,Geelong,12,10,82,3
+784,"2018-08-04 13:45:00",M.C.G.,R20,20,Hawthorn,16,11,107,Essendon,16,7,103,4
+785,"2018-08-04 14:10:00",Gabba,R20,20,"Brisbane Lions",16,8,104,"North Melbourne",16,11,107,-3
+786,"2018-08-04 16:05:00","Adelaide Oval",R20,20,Adelaide,13,18,96,"Port Adelaide",14,9,93,3
+787,"2018-08-04 19:25:00",S.C.G.,R20,20,Sydney,11,7,73,Collingwood,10,11,71,2
+788,"2018-08-04 19:25:00",Docklands,R20,20,"St Kilda",9,14,68,Footscray,15,13,103,-35
+789,"2018-08-05 13:10:00",Docklands,R20,20,Carlton,7,4,46,GWS,23,13,151,-105
+790,"2018-08-05 14:40:00",M.C.G.,R20,20,Melbourne,21,17,143,"Gold Coast",7,5,47,96
+791,"2018-08-05 15:20:00","Perth Stadium",R20,20,"West Coast",21,16,142,Fremantle,13,6,84,58
+792,"2018-08-10 19:50:00",Docklands,R21,21,Essendon,18,14,122,"St Kilda",11,13,79,43
+793,"2018-08-11 13:45:00",M.C.G.,R21,21,Hawthorn,10,11,71,Geelong,8,12,60,11
+794,"2018-08-11 14:10:00",Carrara,R21,21,"Gold Coast",7,9,51,Richmond,19,11,125,-74
+795,"2018-08-11 16:05:00","Adelaide Oval",R21,21,"Port Adelaide",9,4,58,"West Coast",9,8,62,-4
+796,"2018-08-11 19:25:00","Manuka Oval",R21,21,GWS,15,16,106,Adelaide,13,14,92,14
+797,"2018-08-11 19:25:00",Docklands,R21,21,Collingwood,14,20,104,"Brisbane Lions",11,7,73,31
+798,"2018-08-12 13:10:00",Docklands,R21,21,"North Melbourne",12,13,85,Footscray,13,14,92,-7
+799,"2018-08-12 14:40:00",M.C.G.,R21,21,Melbourne,10,18,78,Sydney,13,9,87,-9
+800,"2018-08-12 15:20:00","Perth Stadium",R21,21,Fremantle,15,11,101,Carlton,10,12,72,29
+801,"2018-08-17 19:50:00",M.C.G.,R22,22,Richmond,12,9,81,Essendon,11,7,73,8
+802,"2018-08-18 13:45:00",M.C.G.,R22,22,Collingwood,17,13,115,"Port Adelaide",10,4,64,51
+803,"2018-08-18 14:10:00","Kardinia Park",R22,22,Geelong,24,14,158,Fremantle,3,7,25,133
+804,"2018-08-18 16:35:00","Sydney Showground",R22,22,GWS,8,12,60,Sydney,11,14,80,-20
+805,"2018-08-18 19:25:00",Docklands,R22,22,"St Kilda",11,10,76,Hawthorn,12,8,80,-4
+806,"2018-08-18 19:25:00",Carrara,R22,22,"Gold Coast",11,8,74,"Brisbane Lions",10,18,78,-4
+807,"2018-08-19 13:10:00",Docklands,R22,22,Carlton,7,7,49,Footscray,10,6,66,-17
+808,"2018-08-19 13:20:00","Perth Stadium",R22,22,"West Coast",14,7,91,Melbourne,16,12,108,-17
+809,"2018-08-19 16:10:00","Adelaide Oval",R22,22,Adelaide,12,14,86,"North Melbourne",11,11,77,9
+810,"2018-08-24 19:20:00","Adelaide Oval",R23,23,"Port Adelaide",13,11,89,Essendon,17,9,111,-22
+811,"2018-08-25 13:45:00","Kardinia Park",R23,23,Geelong,22,10,142,"Gold Coast",5,10,40,102
+812,"2018-08-25 14:10:00",M.C.G.,R23,23,Richmond,15,8,98,Footscray,14,11,95,3
+813,"2018-08-25 14:35:00","Perth Stadium",R23,23,Fremantle,9,13,67,Collingwood,11,10,76,-9
+814,"2018-08-25 19:25:00",Docklands,R23,23,Carlton,8,13,61,Adelaide,26,9,165,-104
+815,"2018-08-25 19:25:00",S.C.G.,R23,23,Sydney,10,14,74,Hawthorn,12,11,83,-9
+816,"2018-08-26 13:10:00",Gabba,R23,23,"Brisbane Lions",11,6,72,"West Coast",14,14,98,-26
+817,"2018-08-26 15:20:00",M.C.G.,R23,23,Melbourne,15,12,102,GWS,8,9,57,45
+818,"2018-08-26 16:40:00",Docklands,R23,23,"St Kilda",14,10,94,"North Melbourne",17,15,117,-23
+819,"2018-09-06 19:20:00",M.C.G.,QF,24,Richmond,13,17,95,Hawthorn,9,10,64,31
+820,"2018-09-07 19:50:00",M.C.G.,EF,24,Melbourne,10,15,75,Geelong,6,10,46,29
+821,"2018-09-08 16:20:00",S.C.G.,EF,24,GWS,10,19,79,Sydney,4,6,30,49
+822,"2018-09-08 18:10:00","Perth Stadium",QF,24,"West Coast",12,14,86,Collingwood,10,10,70,16
+823,"2018-09-14 19:50:00",M.C.G.,SF,25,Melbourne,16,8,104,Hawthorn,10,11,71,33
+824,"2018-09-15 19:25:00",M.C.G.,SF,25,Collingwood,9,15,69,GWS,9,5,59,10
+825,"2018-09-21 19:50:00",M.C.G.,PF,26,Collingwood,15,7,97,Richmond,8,10,58,39
+826,"2018-09-22 13:20:00","Perth Stadium",PF,26,"West Coast",18,13,121,Melbourne,7,13,55,66
+827,"2018-09-29 14:30:00",M.C.G.,GF,27,"West Coast",11,13,79,Collingwood,11,8,74,5
+828,"2019-03-21 19:25:00",M.C.G.,R1,1,Carlton,9,10,64,Richmond,14,13,97,-33
+829,"2019-03-22 19:50:00",M.C.G.,R1,1,Collingwood,9,11,65,Geelong,10,12,72,-7
+830,"2019-03-23 13:45:00",M.C.G.,R1,1,Melbourne,9,7,61,"Port Adelaide",12,15,87,-26
+831,"2019-03-23 16:05:00","Adelaide Oval",R1,1,Adelaide,7,13,55,Hawthorn,12,15,87,-32
+832,"2019-03-23 19:20:00",Docklands,R1,1,Footscray,11,16,82,Sydney,9,11,65,17
+833,"2019-03-23 19:25:00",Gabba,R1,1,"Brisbane Lions",15,12,102,"West Coast",8,10,58,44
+834,"2019-03-24 13:10:00",Docklands,R1,1,"St Kilda",13,7,85,"Gold Coast",13,6,84,1
+835,"2019-03-24 15:20:00","Sydney Showground",R1,1,GWS,16,16,112,Essendon,5,10,40,72
+836,"2019-03-24 15:20:00","Perth Stadium",R1,1,Fremantle,21,15,141,"North Melbourne",9,5,59,82
+837,"2019-03-28 19:20:00",M.C.G.,R2,2,Richmond,10,6,66,Collingwood,17,8,110,-44
+838,"2019-03-29 19:50:00",S.C.G.,R2,2,Sydney,8,14,62,Adelaide,12,16,88,-26
+839,"2019-03-30 16:35:00","Adelaide Oval",R2,2,"Port Adelaide",13,10,88,Carlton,11,6,72,16
+840,"2019-03-30 16:40:00",Docklands,R2,2,Essendon,9,11,65,"St Kilda",10,16,76,-11
+841,"2019-03-30 17:10:00","Kardinia Park",R2,2,Geelong,20,6,126,Melbourne,6,10,46,80
+842,"2019-03-30 19:25:00","Perth Stadium",R2,2,"West Coast",16,8,104,GWS,7,10,52,52
+843,"2019-03-31 13:10:00",Docklands,R2,2,"North Melbourne",13,9,87,"Brisbane Lions",16,11,107,-20
+844,"2019-03-31 15:20:00",M.C.G.,R2,2,Hawthorn,13,9,87,Footscray,16,10,106,-19
+845,"2019-03-31 15:40:00",Carrara,R2,2,"Gold Coast",7,19,61,Fremantle,8,10,58,3
+846,"2019-04-04 19:20:00","Adelaide Oval",R3,3,Adelaide,10,15,75,Geelong,14,15,99,-24
+847,"2019-04-05 19:50:00",M.C.G.,R3,3,Melbourne,18,4,112,Essendon,20,10,130,-18
+848,"2019-04-06 13:45:00",Docklands,R3,3,Carlton,10,14,74,Sydney,14,9,93,-19
+849,"2019-04-06 16:35:00","Sydney Showground",R3,3,GWS,19,11,125,Richmond,10,16,76,49
+850,"2019-04-06 18:25:00",M.C.G.,R3,3,Collingwood,11,10,76,"West Coast",15,8,98,-22
+851,"2019-04-06 19:25:00",Gabba,R3,3,"Brisbane Lions",16,11,107,"Port Adelaide",13,12,90,17
+852,"2019-04-07 14:20:00",Docklands,R3,3,Footscray,9,14,68,"Gold Coast",10,13,73,-5
+853,"2019-04-07 15:20:00",M.C.G.,R3,3,Hawthorn,13,9,87,"North Melbourne",10,11,71,16
+854,"2019-04-07 15:20:00","Perth Stadium",R3,3,Fremantle,11,5,71,"St Kilda",9,12,66,5
+855,"2019-04-11 19:20:00",S.C.G.,R4,4,Sydney,11,12,78,Melbourne,15,10,100,-22
+856,"2019-04-12 19:50:00",M.C.G.,R4,4,Collingwood,11,12,78,Footscray,9,10,64,14
+857,"2019-04-13 13:45:00","Kardinia Park",R4,4,Geelong,11,9,75,GWS,11,13,79,-4
+858,"2019-04-13 14:10:00",M.C.G.,R4,4,Essendon,17,10,112,"Brisbane Lions",9,11,65,47
+859,"2019-04-13 16:05:00","Adelaide Oval",R4,4,"Port Adelaide",14,8,92,Richmond,15,9,99,-7
+860,"2019-04-13 18:10:00",Docklands,R4,4,"North Melbourne",9,17,71,Adelaide,8,11,59,12
+861,"2019-04-13 19:25:00","Perth Stadium",R4,4,"West Coast",10,9,69,Fremantle,7,14,56,13
+862,"2019-04-14 14:40:00",Carrara,R4,4,"Gold Coast",8,11,59,Carlton,8,9,57,2
+863,"2019-04-14 15:20:00",Docklands,R4,4,"St Kilda",10,14,74,Hawthorn,10,9,69,5
+864,"2019-04-18 19:35:00",Gabba,R5,5,"Brisbane Lions",8,13,61,Collingwood,18,15,123,-62
+865,"2019-04-19 16:20:00",Docklands,R5,5,"North Melbourne",7,16,58,Essendon,17,14,116,-58
+866,"2019-04-19 18:10:00","Perth Stadium",R5,5,"West Coast",8,5,53,"Port Adelaide",13,17,95,-42
+867,"2019-04-20 13:45:00","Manuka Oval",R5,5,GWS,11,16,82,Fremantle,16,10,106,-24
+868,"2019-04-20 16:35:00",M.C.G.,R5,5,Melbourne,7,13,55,"St Kilda",15,5,95,-40
+869,"2019-04-20 19:25:00",Docklands,R5,5,Richmond,13,11,89,Sydney,10,7,67,22
+870,"2019-04-21 13:10:00",Docklands,R5,5,Footscray,7,15,57,Carlton,15,11,101,-44
+871,"2019-04-21 16:10:00","Adelaide Oval",R5,5,Adelaide,18,11,119,"Gold Coast",6,10,46,73
+872,"2019-04-22 15:20:00",M.C.G.,R5,5,Hawthorn,13,12,90,Geelong,17,11,113,-23
+873,"2019-04-24 19:35:00",M.C.G.,R6,6,Richmond,12,13,85,Melbourne,6,6,42,43
+874,"2019-04-25 15:20:00",M.C.G.,R6,6,Essendon,10,9,69,Collingwood,10,13,73,-4
+875,"2019-04-26 19:20:00","Adelaide Oval",R6,6,"Port Adelaide",12,16,88,"North Melbourne",11,6,72,16
+876,"2019-04-27 13:45:00",Carrara,R6,6,"Gold Coast",9,8,62,"Brisbane Lions",16,15,111,-49
+877,"2019-04-27 16:35:00",Docklands,R6,6,"St Kilda",10,8,68,Adelaide,15,7,97,-29
+878,"2019-04-27 18:10:00",S.C.G.,R6,6,Sydney,12,7,79,GWS,18,12,120,-41
+879,"2019-04-27 19:25:00","Perth Stadium",R6,6,Fremantle,13,10,88,Footscray,9,15,69,19
+880,"2019-04-28 15:20:00","York Park",R6,6,Hawthorn,13,15,93,Carlton,13,10,88,5
+881,"2019-04-28 16:40:00","Kardinia Park",R6,6,Geelong,15,14,104,"West Coast",7,4,46,58
+882,"2019-05-03 19:50:00",Docklands,R7,7,Collingwood,15,18,108,"Port Adelaide",10,9,69,39
+883,"2019-05-04 13:45:00",M.C.G.,R7,7,Melbourne,11,13,79,Hawthorn,11,8,74,5
+884,"2019-05-04 13:45:00","Manuka Oval",R7,7,GWS,18,6,114,"St Kilda",10,10,70,44
+885,"2019-05-04 16:35:00",Gabba,R7,7,"Brisbane Lions",14,19,103,Sydney,12,9,81,22
+886,"2019-05-04 18:10:00",Docklands,R7,7,Footscray,15,9,99,Richmond,7,10,52,47
+887,"2019-05-04 19:25:00","Perth Stadium",R7,7,"West Coast",11,14,80,"Gold Coast",8,9,57,23
+888,"2019-05-05 13:10:00",Docklands,R7,7,Carlton,8,14,62,"North Melbourne",18,12,120,-58
+889,"2019-05-05 15:20:00",M.C.G.,R7,7,Geelong,13,8,86,Essendon,7,12,54,32
+890,"2019-05-05 16:10:00","Adelaide Oval",R7,7,Adelaide,7,9,51,Fremantle,5,4,34,17
+891,"2019-05-10 19:50:00",S.C.G.,R8,8,Sydney,11,11,77,Essendon,10,12,72,5
+892,"2019-05-11 13:45:00",M.C.G.,R8,8,Carlton,13,9,87,Collingwood,16,10,106,-19
+893,"2019-05-11 13:45:00","Eureka Stadium",R8,8,Footscray,13,14,92,"Brisbane Lions",11,10,76,16
+894,"2019-05-11 16:35:00",Carrara,R8,8,"Gold Coast",9,6,60,Melbourne,8,13,61,-1
+895,"2019-05-11 19:10:00",Docklands,R8,8,"St Kilda",10,10,70,"West Coast",12,16,88,-18
+896,"2019-05-11 19:25:00","Adelaide Oval",R8,8,"Port Adelaide",9,14,68,Adelaide,13,10,88,-20
+897,"2019-05-12 13:10:00",Docklands,R8,8,"North Melbourne",11,14,80,Geelong,16,8,104,-24
+898,"2019-05-12 15:20:00",M.C.G.,R8,8,Hawthorn,10,11,71,GWS,5,8,38,33
+899,"2019-05-12 15:20:00","Perth Stadium",R8,8,Fremantle,12,14,86,Richmond,17,9,111,-25
+900,"2019-05-17 18:10:00","Perth Stadium",R9,9,"West Coast",13,7,85,Melbourne,9,15,69,16
+901,"2019-05-18 13:45:00",M.C.G.,R9,9,Collingwood,17,10,112,"St Kilda",10,11,71,41
+902,"2019-05-18 14:10:00",Gabba,R9,9,"Brisbane Lions",13,15,93,Adelaide,13,14,92,1
+903,"2019-05-18 16:35:00","Kardinia Park",R9,9,Geelong,21,7,133,Footscray,13,11,89,44
+904,"2019-05-18 19:25:00",Docklands,R9,9,Essendon,8,12,60,Fremantle,7,11,53,7
+905,"2019-05-18 19:25:00","Bellerive Oval",R9,9,"North Melbourne",10,12,72,Sydney,11,11,77,-5
+906,"2019-05-19 12:40:00","Adelaide Oval",R9,9,"Port Adelaide",13,11,89,"Gold Coast",7,9,51,38
+907,"2019-05-19 15:20:00",M.C.G.,R9,9,Richmond,14,11,95,Hawthorn,8,11,59,36
+908,"2019-05-19 16:40:00","Sydney Showground",R9,9,GWS,20,18,138,Carlton,7,3,45,93
+909,"2019-05-24 19:50:00",S.C.G.,R10,10,Sydney,11,7,73,Collingwood,11,14,80,-7
+910,"2019-05-25 13:45:00","York Park",R10,10,Hawthorn,12,8,80,"Port Adelaide",6,13,49,31
+911,"2019-05-25 14:10:00",Docklands,R10,10,Footscray,13,12,90,"North Melbourne",18,7,115,-25
+912,"2019-05-25 16:05:00","Adelaide Oval",R10,10,Adelaide,10,13,73,"West Coast",13,7,85,-12
+913,"2019-05-25 19:25:00",M.C.G.,R10,10,Richmond,10,13,73,Essendon,6,14,50,23
+914,"2019-05-25 19:25:00",Carrara,R10,10,"Gold Coast",9,10,64,Geelong,13,13,91,-27
+915,"2019-05-26 13:10:00",M.C.G.,R10,10,Melbourne,10,8,68,GWS,14,10,94,-26
+916,"2019-05-26 15:20:00",Docklands,R10,10,"St Kilda",9,14,68,Carlton,8,7,55,13
+917,"2019-05-26 15:20:00","Perth Stadium",R10,10,Fremantle,10,13,73,"Brisbane Lions",10,12,72,1
+918,"2019-05-31 19:50:00",Docklands,R11,11,"North Melbourne",15,9,99,Richmond,9,8,62,37
+919,"2019-06-01 13:45:00",M.C.G.,R11,11,Collingwood,11,9,75,Fremantle,11,13,79,-4
+920,"2019-06-01 13:45:00","Sydney Showground",R11,11,GWS,19,12,126,"Gold Coast",6,7,43,83
+921,"2019-06-01 16:35:00","Kardinia Park",R11,11,Geelong,13,7,85,Sydney,8,15,63,22
+922,"2019-06-01 19:10:00",Gabba,R11,11,"Brisbane Lions",12,13,85,Hawthorn,10,6,66,19
+923,"2019-06-01 19:25:00","Marrara Oval",R11,11,Melbourne,12,16,88,Adelaide,14,6,90,-2
+924,"2019-06-02 12:20:00","Jiangwan Stadium",R11,11,"St Kilda",9,15,69,"Port Adelaide",22,7,139,-70
+925,"2019-06-02 15:20:00",M.C.G.,R11,11,Essendon,11,8,74,Carlton,4,9,33,41
+926,"2019-06-02 15:20:00","Perth Stadium",R11,11,"West Coast",21,7,133,Footscray,10,12,72,61
+927,"2019-06-07 19:50:00",M.C.G.,R12,12,Richmond,5,7,37,Geelong,16,8,104,-67
+928,"2019-06-08 13:45:00",Docklands,R12,12,Carlton,11,12,78,"Brisbane Lions",9,9,63,15
+929,"2019-06-08 16:35:00",Carrara,R12,12,"Gold Coast",11,6,72,"North Melbourne",14,15,99,-27
+930,"2019-06-08 19:10:00","Adelaide Oval",R12,12,Adelaide,12,10,82,GWS,9,7,61,21
+931,"2019-06-09 15:20:00",S.C.G.,R12,12,Sydney,18,8,116,"West Coast",10,11,71,45
+932,"2019-06-10 15:20:00",M.C.G.,R12,12,Collingwood,15,8,98,Melbourne,7,15,57,41
+933,"2019-06-13 19:20:00","Adelaide Oval",R13,13,Adelaide,15,11,101,Richmond,9,14,68,33
+934,"2019-06-14 19:50:00",Docklands,R13,13,Essendon,14,12,96,Hawthorn,11,11,77,19
+935,"2019-06-15 13:45:00","Riverway Stadium",R13,13,"Gold Coast",11,10,76,"St Kilda",11,14,80,-4
+936,"2019-06-15 14:35:00","Perth Stadium",R13,13,Fremantle,15,10,100,"Port Adelaide",12,7,79,21
+937,"2019-06-15 19:25:00",Docklands,R13,13,Carlton,15,10,100,Footscray,15,13,103,-3
+938,"2019-06-16 15:20:00","Bellerive Oval",R13,13,"North Melbourne",10,8,68,GWS,14,7,91,-23
+939,"2019-06-20 18:10:00","Perth Stadium",R14,14,"West Coast",14,22,106,Essendon,11,5,71,35
+940,"2019-06-21 19:50:00",S.C.G.,R14,14,Sydney,12,10,82,Hawthorn,9,9,63,19
+941,"2019-06-22 13:45:00",M.C.G.,R14,14,Melbourne,13,7,85,Fremantle,11,5,71,14
+942,"2019-06-22 16:35:00",Docklands,R14,14,"St Kilda",8,11,59,"Brisbane Lions",17,13,115,-56
+943,"2019-06-22 19:10:00","Adelaide Oval",R14,14,"Port Adelaide",9,13,67,Geelong,8,8,56,11
+944,"2019-06-23 15:20:00",Docklands,R14,14,Footscray,10,13,73,Collingwood,13,4,82,-9
+945,"2019-06-27 19:20:00",Docklands,R15,15,Essendon,12,5,77,GWS,10,11,71,6
+946,"2019-06-28 19:50:00","Kardinia Park",R15,15,Geelong,14,12,96,Adelaide,10,9,69,27
+947,"2019-06-29 13:45:00",M.C.G.,R15,15,Hawthorn,9,17,71,"West Coast",11,11,77,-6
+948,"2019-06-29 16:35:00",S.C.G.,R15,15,Sydney,14,9,93,"Gold Coast",7,9,51,42
+949,"2019-06-29 19:10:00",Docklands,R15,15,Collingwood,5,7,37,"North Melbourne",11,15,81,-44
+950,"2019-06-29 19:25:00","Adelaide Oval",R15,15,"Port Adelaide",5,11,41,Footscray,10,6,66,-25
+951,"2019-06-30 13:10:00",Docklands,R15,15,"St Kilda",10,10,70,Richmond,16,7,103,-33
+952,"2019-06-30 15:20:00",Gabba,R15,15,"Brisbane Lions",15,17,107,Melbourne,11,8,74,33
+953,"2019-06-30 15:20:00","Perth Stadium",R15,15,Fremantle,11,9,75,Carlton,11,13,79,-4
+954,"2019-07-05 19:50:00",M.C.G.,R16,16,Hawthorn,9,13,67,Collingwood,9,9,63,4
+955,"2019-07-06 13:45:00",M.C.G.,R16,16,Essendon,11,10,76,Sydney,9,12,66,10
+956,"2019-07-06 14:10:00",Carrara,R16,16,"Gold Coast",9,4,58,Richmond,23,12,150,-92
+957,"2019-07-06 16:05:00","Adelaide Oval",R16,16,Adelaide,5,14,44,"Port Adelaide",15,11,101,-57
+958,"2019-07-06 18:10:00",Docklands,R16,16,Footscray,10,11,71,Geelong,7,13,55,16
+959,"2019-07-06 19:25:00","Perth Stadium",R16,16,Fremantle,2,19,31,"West Coast",19,8,122,-91
+960,"2019-07-07 13:10:00",M.C.G.,R16,16,Carlton,15,10,100,Melbourne,15,15,105,-5
+961,"2019-07-07 15:20:00","Bellerive Oval",R16,16,"North Melbourne",17,10,112,"St Kilda",11,7,73,39
+962,"2019-07-07 16:40:00","Sydney Showground",R16,16,GWS,11,8,74,"Brisbane Lions",14,10,94,-20
+963,"2019-07-12 18:10:00","Perth Stadium",R17,17,"West Coast",12,5,77,Collingwood,11,12,78,-1
+964,"2019-07-13 13:45:00",S.C.G.,R17,17,Sydney,8,14,62,Carlton,9,15,69,-7
+965,"2019-07-13 14:10:00","York Park",R17,17,Hawthorn,12,12,84,Fremantle,8,5,53,31
+966,"2019-07-13 16:35:00",Docklands,R17,17,Essendon,12,14,86,"North Melbourne",12,9,81,5
+967,"2019-07-13 19:25:00",Carrara,R17,17,"Gold Coast",8,8,56,Adelaide,23,13,151,-95
+968,"2019-07-13 19:25:00","Kardinia Park",R17,17,Geelong,12,12,84,"St Kilda",8,9,57,27
+969,"2019-07-14 13:10:00",M.C.G.,R17,17,Richmond,13,16,94,GWS,9,13,67,27
+970,"2019-07-14 15:20:00",Docklands,R17,17,Footscray,10,14,74,Melbourne,9,12,66,8
+971,"2019-07-14 16:10:00","Adelaide Oval",R17,17,"Port Adelaide",6,13,49,"Brisbane Lions",14,13,97,-48
+972,"2019-07-19 19:20:00","Adelaide Oval",R18,18,Adelaide,10,15,75,Essendon,15,6,96,-21
+973,"2019-07-20 13:45:00",M.C.G.,R18,18,Richmond,15,11,101,"Port Adelaide",9,9,63,38
+974,"2019-07-20 14:10:00",Docklands,R18,18,Carlton,15,9,99,"Gold Coast",11,9,75,24
+975,"2019-07-20 16:35:00","Sydney Showground",R18,18,GWS,19,8,122,Collingwood,11,9,75,47
+976,"2019-07-20 18:10:00",Gabba,R18,18,"Brisbane Lions",12,15,87,"North Melbourne",12,3,75,12
+977,"2019-07-20 19:25:00","Perth Stadium",R18,18,Fremantle,7,10,52,Sydney,7,9,51,1
+978,"2019-07-21 13:10:00",M.C.G.,R18,18,Geelong,8,13,61,Hawthorn,12,13,85,-24
+979,"2019-07-21 14:50:00","Traeger Park",R18,18,Melbourne,11,12,78,"West Coast",14,7,91,-13
+980,"2019-07-21 16:40:00",Docklands,R18,18,"St Kilda",17,14,116,Footscray,14,5,89,27
+981,"2019-07-26 19:50:00",M.C.G.,R19,19,Collingwood,9,12,66,Richmond,14,14,98,-32
+982,"2019-07-27 13:45:00","York Park",R19,19,Hawthorn,7,18,60,"Brisbane Lions",13,9,87,-27
+983,"2019-07-27 14:10:00",M.C.G.,R19,19,Carlton,13,9,87,Adelaide,9,6,60,27
+984,"2019-07-27 14:35:00","Perth Stadium",R19,19,"West Coast",18,13,121,"North Melbourne",10,12,72,49
+985,"2019-07-27 19:10:00",Docklands,R19,19,"St Kilda",15,14,104,Melbourne,13,7,85,19
+986,"2019-07-27 19:25:00","Adelaide Oval",R19,19,"Port Adelaide",7,13,55,GWS,8,8,56,-1
+987,"2019-07-28 13:10:00",Docklands,R19,19,Footscray,16,17,113,Fremantle,9,12,66,47
+988,"2019-07-28 15:20:00",S.C.G.,R19,19,Sydney,12,8,80,Geelong,16,11,107,-27
+989,"2019-07-28 16:40:00",Carrara,R19,19,"Gold Coast",15,6,96,Essendon,16,10,106,-10
+990,"2019-08-02 19:50:00",Docklands,R20,20,"North Melbourne",12,14,86,Hawthorn,9,10,64,22
+991,"2019-08-03 13:45:00",Docklands,R20,20,Essendon,9,13,67,"Port Adelaide",19,12,126,-59
+992,"2019-08-03 14:10:00","Sydney Showground",R20,20,GWS,12,11,83,Sydney,12,9,81,2
+993,"2019-08-03 14:35:00","Perth Stadium",R20,20,Fremantle,14,11,95,Geelong,9,7,61,34
+994,"2019-08-03 19:10:00",M.C.G.,R20,20,Melbourne,9,6,60,Richmond,13,15,93,-33
+995,"2019-08-03 19:25:00","Adelaide Oval",R20,20,Adelaide,14,8,92,"St Kilda",10,10,70,22
+996,"2019-08-04 13:10:00",M.C.G.,R20,20,Collingwood,18,12,120,"Gold Coast",8,3,51,69
+997,"2019-08-04 15:20:00",Docklands,R20,20,Carlton,11,9,75,"West Coast",15,9,99,-24
+998,"2019-08-04 16:40:00",Gabba,R20,20,"Brisbane Lions",14,14,98,Footscray,11,14,80,18
+999,"2019-08-09 19:50:00","Manuka Oval",R21,21,GWS,4,5,29,Hawthorn,13,7,85,-56
+1000,"2019-08-10 13:40:00",M.C.G.,R21,21,Melbourne,7,11,53,Collingwood,10,10,70,-17
+1001,"2019-08-10 13:45:00","Adelaide Oval",R21,21,"Port Adelaide",15,13,103,Sydney,7,14,56,47
+1002,"2019-08-10 16:35:00",Gabba,R21,21,"Brisbane Lions",22,12,144,"Gold Coast",8,5,53,91
+1003,"2019-08-10 19:25:00",Docklands,R21,21,Essendon,4,9,33,Footscray,21,11,137,-104
+1004,"2019-08-10 19:25:00","Kardinia Park",R21,21,Geelong,9,15,69,"North Melbourne",1,8,14,55
+1005,"2019-08-11 13:10:00",Docklands,R21,21,"St Kilda",10,12,72,Fremantle,10,9,69,3
+1006,"2019-08-11 15:20:00",M.C.G.,R21,21,Richmond,11,7,73,Carlton,6,9,45,28
+1007,"2019-08-11 15:20:00","Perth Stadium",R21,21,"West Coast",13,12,90,Adelaide,12,8,80,10
+1008,"2019-08-16 19:50:00",M.C.G.,R22,22,Melbourne,5,12,42,Sydney,15,5,95,-53
+1009,"2019-08-17 13:45:00",M.C.G.,R22,22,Carlton,11,12,78,"St Kilda",10,8,68,10
+1010,"2019-08-17 14:10:00",Gabba,R22,22,"Brisbane Lions",10,15,75,Geelong,10,14,74,1
+1011,"2019-08-17 16:05:00","Adelaide Oval",R22,22,Adelaide,6,12,48,Collingwood,17,12,114,-66
+1012,"2019-08-17 18:10:00",Docklands,R22,22,"North Melbourne",22,12,144,"Port Adelaide",8,10,58,86
+1013,"2019-08-17 19:25:00","Perth Stadium",R22,22,Fremantle,7,13,55,Essendon,13,9,87,-32
+1014,"2019-08-18 13:10:00",M.C.G.,R22,22,Richmond,13,10,88,"West Coast",13,4,82,6
+1015,"2019-08-18 15:20:00","Sydney Showground",R22,22,GWS,9,11,65,Footscray,19,12,126,-61
+1016,"2019-08-18 16:40:00",Docklands,R22,22,Hawthorn,18,10,118,"Gold Coast",7,6,48,70
+1017,"2019-08-23 19:50:00",M.C.G.,R23,23,Collingwood,10,16,76,Essendon,10,5,65,11
+1018,"2019-08-24 13:45:00",S.C.G.,R23,23,Sydney,17,7,109,"St Kilda",8,16,64,45
+1019,"2019-08-24 14:10:00","Bellerive Oval",R23,23,"North Melbourne",13,10,88,Melbourne,12,11,83,5
+1020,"2019-08-24 16:35:00","Kardinia Park",R23,23,Geelong,19,15,129,Carlton,8,13,61,68
+1021,"2019-08-24 18:10:00",Carrara,R23,23,"Gold Coast",7,13,55,GWS,20,7,127,-72
+1022,"2019-08-24 19:25:00","Perth Stadium",R23,23,"West Coast",9,13,67,Hawthorn,16,9,105,-38
+1023,"2019-08-25 13:10:00","Eureka Stadium",R23,23,Footscray,18,13,121,Adelaide,13,9,87,34
+1024,"2019-08-25 15:20:00",M.C.G.,R23,23,Richmond,12,10,82,"Brisbane Lions",8,7,55,27
+1025,"2019-08-25 16:10:00","Adelaide Oval",R23,23,"Port Adelaide",15,20,110,Fremantle,10,7,67,43
+1026,"2019-09-05 18:10:00","Perth Stadium",EF,24,"West Coast",17,14,116,Essendon,9,7,61,55
+1027,"2019-09-06 19:50:00",M.C.G.,QF,24,Collingwood,9,7,61,Geelong,7,9,51,10
+1028,"2019-09-07 15:20:00","Sydney Showground",EF,24,GWS,16,17,113,Footscray,8,7,55,58
+1029,"2019-09-07 19:25:00",Gabba,QF,24,Richmond,18,4,112,"Brisbane Lions",8,17,65,47
+1030,"2019-09-13 19:50:00",M.C.G.,SF,25,Geelong,13,10,88,"West Coast",10,8,68,20
+1031,"2019-09-14 19:25:00",Gabba,SF,25,GWS,12,11,83,"Brisbane Lions",11,14,80,3
+1032,"2019-09-20 19:50:00",M.C.G.,PF,26,Richmond,12,13,85,Geelong,9,12,66,19
+1033,"2019-09-21 16:35:00",M.C.G.,PF,26,GWS,8,8,56,Collingwood,7,10,52,4
+1034,"2019-09-28 14:30:00",M.C.G.,GF,27,Richmond,17,12,114,GWS,3,7,25,89
