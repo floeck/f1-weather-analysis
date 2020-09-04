@@ -1,0 +1,21 @@
+track,date,local_time,weather,temp,track_temp,humidity,air_pressure,wind_speed,wind_direction
+albert-park,18. März 2012,17:00:00,sonnig,22,26,45,1022,5,Süden
+albert-park,17. März 2013,17:00:00,bewölkt,17,19,50,1022,4,Süden
+albert-park,16. März 2014,17:00:00,bewölkt,18,26,46,1006,8,westlich
+albert-park,15. März 2015,17:00:00,leicht bewölkt,18,34,60,1015,6,Süden
+silverstone,08. Juli 2012,13:00:00,Trocken,20,32,60,989,32,Nordwest
+silverstone,30. Juni 2013,13:00:00,freundlich,22,32,54,1002,5,Westen
+silverstone,06. Juli 2014,13:00:00,leicht bewölkt,18,36,50,988,5,Osten
+silverstone,05. Juli 2015,13:00:00,bewölkt/zeitweise Regen,18,28,58,998,25,Osten
+catalunya,13. Mai 2012,14:00:00,freundlich,22,34,58,1004,3,Südwesten
+catalunya,12. Mai 2013,14:00:00,Trocken,20,37,48,1005,28,Südost
+catalunya,11. Mai 2014,14:00:00,sonnig,22,36,52,1003,40,Westen
+catalunya,10. Mai 2015,14:00:00,sonnig,25,44,44,1010,18,Nordosten
+interlagos,25. November 2012,14:00:00,regnerisch,18,22,66,925,2,Osten
+interlagos,24. November 2013,14:00:00,"bewölkt, leichter Regen am Ende",19,24,83,926,45,Südosten
+interlagos,09. November 2014,14:00:00,leicht bewölkt,24,48,68,928,30,Nordosten
+interlagos,15. November 2015,14:00:00,trocken,25,43,66,928,25,Norden
+de-spa,02. September 2012,14:00:00,leicht bewölkt,21,34,34,975,1,Osten
+de-spa,25. August 2013,14:00:00,"bewölkt, trocken",21,26,52,964,30,Norden
+de-spa,24. August 2014,14:00:00,bewölkt,14,26,62,970,20,Nordosten
+de-spa,23. August 2015,14:00:00,bewölkt,23,35,42,958,35,Nordwesten
