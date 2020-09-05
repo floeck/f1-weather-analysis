@@ -1,27 +1,261 @@
 track,date,local_time,weather,temp,track_temp,humidity,air_pressure,wind_speed,wind_direction
-albert-park,2007-03-18,14:00:00,sonnig,21,40,52,1020,15,Westen
-albert-park,2008-03-16,15:30:00,sonnig,36,49,11,1014,35,Norden
-albert-park,2009-03-29,17:00:00,sonnig,21,27,65,1020,5,Süden
-albert-park,2010-03-28,17:00:00,"bewölkt, zeitweise Regen",26,23,41,1008,2,Westen
-albert-park,2011-03-27,17:00:00,leicht bewölkt,17,20,61,1025,4,Süden
-albert-park,2012-03-18,17:00:00,sonnig,22,26,45,1022,5,Süden
-albert-park,2013-03-17,17:00:00,bewölkt,17,19,50,1022,4,Süden
-albert-park,2014-03-16,17:00:00,bewölkt,18,26,46,1006,8,westlich
-albert-park,2015-03-15,17:00:00,leicht bewölkt,18,34,60,1015,6,Süden
-albert-park,2016-03-20,16:00:00,leicht bewölkt,22,31,46,1018,4,südlich
-albert-park,2017-03-26,16:00:00,leicht bewölkt,24,34,69,1010,2,Nordwesten
-albert-park,2018-03-25,16:10:00,leicht bewölkt,24,36,31,996,4,Nordosten
-albert-park,2019-03-17,16:10:00,sonnig,23,40,70,1015,15,Nordwesten
-catalunya,2007-05-13,14:00:00,sonnig,28,46,40,998,2,Süden
-catalunya,2008-04-27,14:00:00,sonnig,23,37,35,1008,2,drehend
-catalunya,2009-05-10,14:00:00,leicht bewölkt,24,42,54,1000,2,Südosten
-catalunya,2010-05-09,14:00:00,sonnig,20,36,47,993,5,Südwesten
-catalunya,2011-05-22,14:00:00,sonnig,26,39,31,1006,15,Südosten
-catalunya,2012-05-13,14:00:00,freundlich,22,34,58,1004,3,Südwesten
-catalunya,2013-05-12,14:00:00,Trocken,20,37,48,1005,28,Südost
-catalunya,2014-05-11,14:00:00,sonnig,22,36,52,1003,40,Westen
-catalunya,2015-05-10,14:00:00,sonnig,25,44,44,1010,18,Nordosten
-catalunya,2016-05-15,14:00:00,leicht bewölkt,21,40,56,1003,2,nördlich
-catalunya,2017-05-14,14:00:00,sonnig,24,44,42,1009,15,Südosten
-catalunya,2018-05-13,15:10:00,bewölkt,16,32,51,1001,2,südlich drehend
-catalunya,2019-05-12,15:10:00,leicht bewölkt,20,40,56,1006,15,Süden
+albert-park,2007-03-18,14:00:00,sunny,21,40,52,1020,1.5,west
+albert-park,2008-03-16,15:30:00,sunny,36,49,11,1014,3.5,north
+albert-park,2009-03-29,17:00:00,sunny,21,27,65,1020,5,south
+albert-park,2010-03-28,17:00:00,"cloudy, occasional rain",26,23,41,1008,2,west
+albert-park,2011-03-27,17:00:00,slightly cloudy,17,20,61,1025,4,south
+albert-park,2012-03-18,17:00:00,sunny,22,26,45,1022,5,south
+albert-park,2013-03-17,17:00:00,cloudy,17,19,50,1022,4,south
+albert-park,2014-03-16,17:00:00,cloudy,18,26,46,1006,8,west
+albert-park,2015-03-15,17:00:00,slightly cloudy,18,34,60,1015,6,south
+albert-park,2016-03-20,16:00:00,slightly cloudy,22,31,46,1018,4,southern
+albert-park,2017-03-26,16:00:00,slightly cloudy,24,34,69,1010,2,northwest
+albert-park,2018-03-25,16:10:00,slightly cloudy,24,36,31,996,4,northeast
+albert-park,2019-03-17,16:10:00,sunny,23,40,70,1015,1.5,northwest
+sepang,2007-04-08,15:00:00,sunny,34,52,59,1005,1.5,south
+sepang,2008-03-23,15:00:00,sunny,30,42,70,1003,3,south
+sepang,2009-04-05,17:00:00,"sunny, then rain",27,32,86,1006,5,turning
+sepang,2010-04-04,16:00:00,cloudy,29,40,63,1004,3,south
+sepang,2011-04-10,16:00:00,"cloudy, occasional drizzle",28,30,84,1005,1.5,turning
+sepang,2012-03-25,16:00:00,"cloudy, rain",26,26,84,1004,2,northeast
+sepang,2013-03-24,16:00:00,"rain at the beginning, slightly cloudy",24,30,70,1002,2,north
+sepang,2014-03-30,16:00:00,slightly cloudy,32,48,62,1002,2.5,north
+sepang,2015-03-29,15:00:00,sunny,32,56,50,1004,2,turning south
+sepang,2016-10-02,15:00:00,sunny,33,49,54,1002,2.8,west
+sepang,2017-10-01,15:00:00,cloudy,30,36,68,1003,1.6,turning
+sepang,2018,null,null,null,null,null,null,null,null
+sepang,2019,null,null,null,null,null,null,null,null
+sachir,2007-04-15,14:30:00,"sun, windy",30,38,25,1015,3,north
+sachir,2008-04-06,14:30:00,sunny,28,36,22,1012,5,north
+sachir,2009-04-26,15:00:00,sunny,36,49,18,1005,4,east
+sachir,2010-03-14,15:00:00,sunny,35,44,5,1012,2,north
+sachir,2011,null,null,null,null,null,null,null,null
+sachir,2012-04-22,15:00:00,sunny,32,27,32,1007,4.1,turning
+sachir,2013-04-21,15:00:00,sunny,31,40,44,1002,8,north
+sachir,2014-04-06,18:00:00,clear,24,28,40,1018,2.6,south
+sachir,2015-04-19,18:00:00,sunny / clear,25,30,36,1012,1.5,north
+sachir,2016-04-03,18:00:00,friendly,22,28,43,1016,2,southwest
+sachir,2017-04-16,18:00:00,sunny,23,28,65,1009,6.5,north
+sachir,2018-04-08,18:10:00,sunny / clear,28,32,48,1009,1,south
+sachir,2019-03-31,18:10:00,cloudy,26,29,55,1003,4,northeast
+catalunya,2007-05-13,14:00:00,sunny,28,46,40,998,2,south
+catalunya,2008-04-27,14:00:00,sunny,23,37,35,1008,2,turning
+catalunya,2009-05-10,14:00:00,slightly cloudy,24,42,54,1000,2,southeast
+catalunya,2010-05-09,14:00:00,sunny,20,36,47,993,5,southwest
+catalunya,2011-05-22,14:00:00,sunny,26,39,31,1006,1.5,southeast
+catalunya,2012-05-13,14:00:00,friendly,22,34,58,1004,3,southwest
+catalunya,2013-05-12,14:00:00,dry,20,37,48,1005,2.8,southeast
+catalunya,2014-05-11,14:00:00,sunny,22,36,52,1003,4.0,west
+catalunya,2015-05-10,14:00:00,sunny,25,44,44,1010,1.8,northeast
+catalunya,2016-05-15,14:00:00,slightly cloudy,21,40,56,1003,2,north
+catalunya,2017-05-14,14:00:00,sunny,24,44,42,1009,1.5,southeast
+catalunya,2018-05-13,15:10:00,cloudy,16,32,51,1001,2,turning south
+catalunya,2019-05-12,15:10:00,slightly cloudy,20,40,56,1006,1.5,south
+de-monaco,2007-05-27,14:00:00,"dry, cloudy",26,34,53,1002,1,turning
+de-monaco,2008-05-25,14:00:00,rain,21,20,76,1015,2,northeast
+de-monaco,2009-05-24,14:00:00,sunny,26,43,58,1020,1.5,east
+de-monaco,2010-05-16,14:00:00,sunny,22,36,42,1009,1,southeast
+de-monaco,2011-05-29,14:00:00,sunny,24,45,47,1018,1.5,east
+de-monaco,2012-05-27,14:00:00,"cloudy, drizzle towards the end",21,33,63,1016,1.5,east
+de-monaco,2013-05-26,14:00:00,sunny,19,40,36,1012,2,east
+de-monaco,2014-05-25,14:00:00,cloudy,20,29,47,1016,2,southwest
+de-monaco,2015-05-24,14:00:00,slightly cloudy,18,34,64,1014,1.5,west
+de-monaco,2016-05-29,14:00:00,rainy,18,21,88,1008,2,north
+de-monaco,2017-05-28,14:00:00,sunny,26,53,34,1020,1,north
+de-monaco,2018-05-27,15:10:00,very cloudy,26,34,50,1015,1,turning
+de-monaco,2019-05-26,15:10:00,cloudy,23,32,53,1011,1.0,turning
+montreal,2007-06-10,13:00:00,sunny,28,52,40,1016,2,east
+montreal,2008-06-08,13:00:00,slightly cloudy,27,37,64,1005,7,west
+montreal,2009,null,null,null,null,null,null,null,null
+montreal,2010-06-13,12:00:00,slightly cloudy,26,38,42,1011,3,northeast
+montreal,2011-06-12,13:00:00,rain,18,16,88,1007,5,south
+montreal,2012-06-10,14:00:00,sunny,28,42,26,1016,2,southwest
+montreal,2013-06-09,14:00:00,dry,24,30,35,1016,6.5,north
+montreal,2014-06-08,14:00:00,sunny,28,44,33,1010,1.4,northwest
+montreal,2015-06-07,14:00:00,sunny,20,39,30,1016,4,north
+montreal,2016-06-12,14:00:00,cloudy,12,22,57,1004,2.5,southeast
+montreal,2017-06-11,14:00:00,sunny,28,43,44,1006,2.5,southeast
+montreal,2018-06-10,14:10:00,slightly cloudy,20,37,28,1017,4,south
+montreal,2019-06-09,14:10:00,sunny,29,51,14,1022,1.5,changing
+indianapolis,2007-06-17,13:00:00,sunny,36,51,33,992,1.5,west
+indianapolis,2008,null,null,null,null,null,null,null,null
+indianapolis,2009,null,null,null,null,null,null,null,null
+indianapolis,2010,null,null,null,null,null,null,null,null
+indianapolis,2011,null,null,null,null,null,null,null,null
+indianapolis,2012-11-18,13:00:00,sunny,24,32,29,1004,5,south
+indianapolis,2013-11-17,13:00:00,sunny,31,36,56,991,2.5,south
+indianapolis,2014-11-02,14:00:00,sunny,23,32,42,1003,6,south
+indianapolis,2015-10-25,14:00:00,very cloudy,17,18,89,997,8,south
+indianapolis,2016-10-23,14:00:00,slightly cloudy,27,34,42,1000,3.5,north
+indianapolis,2017-10-22,14:00:00,slightly cloudy,24,34,48,1001,3,east
+indianapolis,2018-10-21,13:10:00,sunny,20,28,40,1006,2.0,east
+indianapolis,2019-11-03,13:10:00,sunny,22,28,30,1001,3,turning
+austin,2007-06-17,13:00:00,sunny,36,51,33,992,1.5,west
+austin,2008,null,null,null,null,null,null,null,null
+austin,2009,null,null,null,null,null,null,null,null
+austin,2010,null,null,null,null,null,null,null,null
+austin,2011,null,null,null,null,null,null,null,null
+austin,2012-11-18,13:00:00,sunny,24,32,29,1004,5,south
+austin,2013-11-17,13:00:00,sunny,31,36,56,991,2.5,south
+austin,2014-11-02,14:00:00,sunny,23,32,42,1003,6,south
+austin,2015-10-25,14:00:00,very cloudy,17,18,89,997,8,south
+austin,2016-10-23,14:00:00,slightly cloudy,27,34,42,1000,3.5,north
+austin,2017-10-22,14:00:00,slightly cloudy,24,34,48,1001,3,east
+austin,2018-10-21,13:10:00,sunny,20,28,40,1006,2.0,east
+austin,2019-11-03,13:10:00,sunny,22,28,30,1001,3,turning
+magny-cours,2007-07-01,14:00:00,dry,24,39,60,987,1,east
+magny-cours,2008-06-22,14:00:00,"cloudy, rain towards the end",25,27,72,993,1.5,southern
+magny-cours,2009,null,null,null,null,null,null,null,null
+magny-cours,2010,null,null,null,null,null,null,null,null
+magny-cours,2011,null,null,null,null,null,null,null,null
+magny-cours,2012,null,null,null,null,null,null,null,null
+magny-cours,2013,null,null,null,null,null,null,null,null
+magny-cours,2014,null,null,null,null,null,null,null,null
+magny-cours,2015,null,null,null,null,null,null,null,null
+magny-cours,2016,null,null,null,null,null,null,null,null
+magny-cours,2017,null,null,null,null,null,null,null,null
+magny-cours,2018-06-24,16:10:00,sunny,24,41,52,966,1.0,turning
+magny-cours,2019-06-23,15:10:00,sunny,26,55,40,967,2,turning
+silverstone,2007-07-08,13:00:00,sunny,22,43,40,1000,1,southeast
+silverstone,2008-07-06,13:00:00,rain,17,18,74,992,5.5,southwest
+silverstone,2009-06-21,13:00:00,cloudy,16,28,57,1007,3.5,northwest
+silverstone,2010-07-11,13:00:00,sunny,22,36,44,997,5,west
+silverstone,2011-07-10,13:00:00,"wet track, cloudy",20,24,56,1000,3,southwest
+silverstone,2012-07-08,13:00:00,dry,20,32,60,989,3,northwest
+silverstone,2013-06-30,13:00:00,friendly,22,32,54,1002,5,west
+silverstone,2014-07-06,13:00:00,slightly cloudy,18,36,50,988,5,east
+silverstone,2015-07-05,13:00:00,cloudy / occasional rain,18,28,58,998,2.5,east
+silverstone,2016-07-10,13:00:00,cloudy / rain at the beginning,19,25,72,987,3.5,southwest
+silverstone,2017-07-16,13:00:00,cloudy,22,30,68,1004,1.5,west
+silverstone,2018-07-08,14:10:00,sunny,26,50,40,1008,2,turning west
+silverstone,2019-07-14,14:10:00,very cloudy,18,30,62,1006,2,southwest
+valencia,2007-07-22,14:00:00,shower,19,27,59,944,4.5,west
+valencia,2008-08-24,14:00:00,sunny,28,44,66,1013,3.5,southwest
+valencia,2009-08-23,14:00:00,sunny,31,48,56,1013,1.5,northeast
+valencia,2010-06-27,14:00:00,sunny,27,44,44,1018,1.5,southeast
+valencia,2011-06-26,14:00:00,sunny,28,46,60,1021,4.5,southeast
+valencia,2012-06-24,14:00:00,sunny,27,44,64,1020,2,northeast
+valencia,2013,null,null,null,null,null,null,null,null
+valencia,2014,null,null,null,null,null,null,null,null
+valencia,2015,null,null,null,null,null,null,null,null
+valencia,2016-06-19,17:00:00,slightly cloudy,32,42,34,1016,2.5,southern
+valencia,2017,null,null,null,null,null,null,null,null
+valencia,2018,null,null,null,null,null,null,null,null
+valencia,2019,null,null,null,null,null,null,null,null
+hungaroring,2007-08-05,14:00:00,slightly cloudy,28,34,39,991,2.5,north
+hungaroring,2008-08-03,14:00:00,sunny,30,44,39,989,4.5,west
+hungaroring,2009-07-26,14:00:00,sunny,26,44,38,993,8,northwest
+hungaroring,2010-08-01,14:00:00,sunny,28,44,49,987,3.5,northwest
+hungaroring,2011-07-31,14:00:00,rain,18,20,78,983,5,northwest
+hungaroring,2012-07-29,14:00:00,dry,31,44,41,981,3,southeast
+hungaroring,2013-07-28,14:00:00,sunny,35,50,21,986,4,southwest
+hungaroring,2014-07-27,14:00:00,rain & dry,23,31,80,986,2.0,north
+hungaroring,2015-07-26,14:00:00,sunny,23,44,34,985,3.2,east
+hungaroring,2016-07-24,14:00:00,sunny,28,50,48,99,2.4,southeast
+hungaroring,2017-07-30,14:00:00,sunny,30,52,34,988,2.9,southeast
+hungaroring,2018-07-29,15:10:00,sunny,34,53,43,983,1.0,northwest
+hungaroring,2019-08-04,15:10:00,sunny,26,45,34,986,1,south
+istanbul,2007-08-26,15:00:00,sunny,35,50,32,1001,1.5,turning
+istanbul,2008-05-11,15:00:00,sunny,18,32,54,1003,5.5,north
+istanbul,2009-06-07,15:00:00,sunny,32,48,31,997,4.5,northeast
+istanbul,2010-05-30,15:00:00,"friendly, short shower",28,42,49,999,3,north
+istanbul,2011-05-08,15:00:00,slightly cloudy,16,33,44,1001,6,northeast
+istanbul,2012,null,null,null,null,null,null,null,null
+istanbul,2013,null,null,null,null,null,null,null,null
+istanbul,2014,null,null,null,null,null,null,null,null
+istanbul,2015,null,null,null,null,null,null,null,null
+istanbul,2016,null,null,null,null,null,null,null,null
+istanbul,2017,null,null,null,null,null,null,null,null
+istanbul,2018,null,null,null,null,null,null,null,null
+istanbul,2019,null,null,null,null,null,null,null,null
+monza,2007-09-09,14:00:00,sunny,28,32,39,992,1,west
+monza,2008-09-14,14:00:00,rain,14,16,84,991,1.5,east
+monza,2009-09-13,14:00:00,slightly cloudy,27,39,37,992,2,northwest
+monza,2010-09-12,14:00:00,sunny,25,35,43,996,2,south
+monza,2011-09-11,14:00:00,sunny,30,42,46,994,2,south
+monza,2012-09-09,14:00:00,slightly cloudy,28,40,33,995,1.5,southwest
+monza,2013-09-08,14:00:00,very cloudy,26,32,58,996,3,east
+monza,2014-09-07,14:00:00,slightly cloudy,25,40,59,992,2,southeast
+monza,2015-09-06,14:00:00,slightly cloudy,22,38,34,996,1.5,turning
+monza,2016-09-04,14:00:00,slightly cloudy,29,37,48,994,1.5,north
+monza,2017-09-03,14:00:00,sunny,25,37,26,989,0.6,east
+monza,2018-09-02,15:10:00,very cloudy,22,32,61,995,2.5,north
+monza,2019-09-08,15:10:00,slightly cloudy,21,34,50,988,1.5,northeast
+de-spa,2007-09-16,14:00:00,sunny,22,35,53,969,2,south
+de-spa,2008-09-07,14:00:00,cloudy / rain,16,16,71,961,2.5,southwest
+de-spa,2009-08-30,14:00:00,"dry, slightly cloudy",16,30,50,972,3,west
+de-spa,2010-08-29,14:00:00,rainy,15,18,70,965,3,southwest
+de-spa,2011-08-28,14:00:00,slightly cloudy,16,25,54,969,4,south
+de-spa,2012-09-02,14:00:00,slightly cloudy,21,34,34,975,1,east
+de-spa,2013-08-25,14:00:00,"cloudy, dry",21,26,52,964,3.0,north
+de-spa,2014-08-24,14:00:00,cloudy,14,26,62,970,2.0,northeast
+de-spa,2015-08-23,14:00:00,cloudy,23,35,42,958,3.5,northwest
+de-spa,2016-08-28,14:00:00,sunny,26,38,56,966,5,northwest
+de-spa,2017-08-27,14:00:00,cloudy,23,34,56,969,1,southeast
+de-spa,2018-08-26,15:10:00,cloudy,17,28,38,966,2.5,north
+de-spa,2019-09-01,15:10:00,cloudy,17,28,56,968,2.5,southwest
+fuji,2007-09-30,13:30:00,rain,17,22,95,953,1,southwest
+fuji,2008-10-12,13:30:00,cloudy,16,22,60,950,2.5,east
+fuji,2009-10-04,14:00:00,sunny,26,38,43,1009,2.5,turning
+fuji,2010-10-10,15:00:00,slightly cloudy,26,34,50,1003,4,northwest
+fuji,2011-10-09,15:00:00,very cloudy / light drizzle,24,31,30,1018,2.5,south
+fuji,2012-10-07,15:00:00,slightly cloudy,23,32,52,1010,6,west
+fuji,2013-10-13,15:00:00,sunny,24,34,36,1013,6,northwest
+fuji,2014-10-05,15:00:00,rain,19,22,98,1007,1.5,northeast
+fuji,2015-09-27,14:00:00,slightly cloudy,27,53,53,1005,4.5,east
+fuji,2016-10-09,14:00:00,cloudy,21,26,57,1005,2.3,western liqueur
+fuji,2017-10-08,14:00:00,sunny,26,40,57,1017,1.8,southeast
+fuji,2018-10-07,14:10:00,slightly cloudy,28,36,51,1008,2.5,southeast
+fuji,2019-10-13,14:10:00,sunny,22,37,58,1009,5,northwest
+shanghai,2007-10-07,14:00:00,rain,29,30,83,1007,2.5,east
+shanghai,2008-10-19,15:00:00,cloudy,27,29,64,1016,2.5,northeast
+shanghai,2009-04-19,15:00:00,rain,20,18,90,1003,4.5,east
+shanghai,2010-04-18,15:00:00,rain,20,20,66,1015,1,turning east
+shanghai,2011-04-17,15:00:00,cloudy,22,28,26,1006,1,west
+shanghai,2012-04-15,15:00:00,cloudy,22,24,51,1009,1,northwest
+shanghai,2013-04-14,15:00:00,friendly,22,30,43,1010,8,northeast
+shanghai,2014-04-20,15:00:00,friendly,16,22,74,1016,2.5,southwest
+shanghai,2015-04-12,14:00:00,sunny,21,46,33,1017,1.4,northwest
+shanghai,2016-04-17,14:00:00,sunny,21,37,37,1014,4.8,northeast
+shanghai,2017-04-09,14:00:00,cloudy at first wet,12,14,82,1010,2.5,south
+shanghai,2018-04-15,14:10:00,slightly cloudy,19,37,23,1018,1.5,west
+shanghai,2019-04-14,14:10:00,cloudy,19,29 ,45,1019,3,southeast
+interlagos,2007-10-21,14:00:00,sunny,37,60,28,925,2,south
+interlagos,2008-11-02,15:00:00,"cloudy, occasional rain",27,26,62,924,3.5,west
+interlagos,2009-10-18,14:00:00,slightly cloudy,26,35,69,924,5,turning
+interlagos,2010-11-07,14:00:00,sunny,24,49,62,924,6,southeast
+interlagos,2011-11-27,14:00:00,slightly cloudy,24,42,58,924,4.5,southeast
+interlagos,2012-11-25,14:00:00,rainy,18,22,66,925,2,east
+interlagos,2013-11-24,14:00:00,"cloudy, light rain at the end",19,24,83,926,4.5,southeast
+interlagos,2014-11-09,14:00:00,slightly cloudy,24,48,68,928,3.0,northeast
+interlagos,2015-11-15,14:00:00,dry,25,43,66,928,2.5,north
+interlagos,2016-11-13,14:00:00,rain,18,20,98,931,4,southern
+interlagos,2017-11-12,14:00:00,slightly cloudy,29,57,20,919,1.5,turning
+interlagos,2018-11-11,15:10:00,sunny,24,40,70,924,1.8,southeast
+interlagos,2019-11-17,14:10:00,sunny,22,49,49,925,2,southeast
+abu-dhabi,2007,null,null,null,null,null,null,null,null
+abu-dhabi,2008,null,null,null,null,null,null,null,null
+abu-dhabi,2009-11-01,17:00:00,"sunny, of course",30,32,46,1012,2,north
+abu-dhabi,2010-11-14,17:00:00,sunny / clear,28,31,60,1013,4,north
+abu-dhabi,2011-11-13,17:00:00,sunny / clear,26,30,60,1013,2.5,north
+abu-dhabi,2012-11-04,17:00:00,sunny / clear,30,32,54,1012,4.5,north
+abu-dhabi,2013-11-03,17:00:00,clear,32,34,51,1011,3,northeast
+abu-dhabi,2014-11-23,17:00:00,clear,25,32,74,1013,1.5,north
+abu-dhabi,2015-11-29,17:00:00,clear,26,28,60,1016,1.5,south
+abu-dhabi,2016-11-27,17:00:00,sunny / clear,26,28,64,1015,2,southern
+abu-dhabi,2017-11-26,17:00:00,sunny / clear,24,30,50,1018,2.5,northeast
+abu-dhabi,2018-11-25,17:10:00,"clear, short showers",29,31,55,1014,3.5,turning southeast
+abu-dhabi,2019-12-01,17:10:00,sunny / clear,26,29,66,1015,1.5,northwest
+mexico,2007,null,null,null,null,null,null,null,null
+mexico,2008,null,null,null,null,null,null,null,null
+mexico,2009,null,null,null,null,null,null,null,null
+mexico,2010,null,null,null,null,null,null,null,null
+mexico,2011,null,null,null,null,null,null,null,null
+mexico,2012,null,null,null,null,null,null,null,null
+mexico,2013,null,null,null,null,null,null,null,null
+mexico,2014,null,null,null,null,null,null,null,null
+mexico,2015-11-01,13:00:00,slightly cloudy,23,52,39,782,1.5,northwest
+mexico,2016-10-30,13:00:00,slightly cloudy,20,46,44,785,3,southern
+mexico,2017-10-29,13:00:00,leitch cloudy,21,42,33,781,1.5,east
+mexico,2018-10-28,13:10:00,cloudy,20,34,50,784,1.5,east
+mexico,2019-10-27,13:10:00,cloudy,24,40,45,780,1,turning
