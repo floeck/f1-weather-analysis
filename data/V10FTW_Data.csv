@@ -1,4 +1,4 @@
-,date,fastestLapTime,fastestLapSpeed,track,weather,temp,track_temp,humidity,air_pressure,wind_speed,wind_direction,rain,year
+,date,lapTime,lapAverageSpeed,track,weather,temp,track_temp,humidity,air_pressure,wind_speed,wind_direction,rain,year
 0,2009-03-29,88833.158,214.919,albert-park,sunny,21.0,27.0,65.0,1020.0,5.0,south,dry,2009
 1,2009-04-05,98636.611,202.321,sepang,"sunny, then rain",27.0,32.0,86.0,1006.0,5.0,turning,wet,2009
 2,2009-04-19,114742.65,171.06,shanghai,rain,20.0,18.0,90.0,1003.0,4.5,east,wet,2009
